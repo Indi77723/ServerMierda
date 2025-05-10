@@ -6018,6 +6018,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-05-10 03:42:52 +0000"
@@ -6066,6 +6072,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/purple_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-10 03:31:07 +0000"
@@ -6087,6 +6099,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
     "criteria": {
       "has_toilets": "2025-05-10 04:32:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
     },
     "done": true
   },
@@ -6120,9 +6138,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/brown_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-10 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
     },
     "done": true
   },
@@ -6162,9 +6204,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/orange_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-10 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
     },
     "done": true
   },
@@ -6210,6 +6276,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-10 03:31:07 +0000"
@@ -6231,6 +6303,18 @@
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-10 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
     },
     "done": true
   },
@@ -6258,6 +6342,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_staff_stars": {
     "criteria": {
       "gobber2_staff_stars": "2025-05-10 03:12:32 +0000"
@@ -6270,9 +6360,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/blue_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-10 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
     },
     "done": true
   },
@@ -6282,9 +6384,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-10 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
     },
     "done": true
   },
@@ -6300,15 +6420,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/brown_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/light_blue_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-05-10 04:32:18 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
+    },
+    "done": true
+  },
   "scguns:main/anthralite": {
     "criteria": {
       "anthralite_ingot": "2025-05-10 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
     },
     "done": true
   },
@@ -6330,9 +6468,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_bath": {
+    "criteria": {
+      "has_baths": "2025-05-10 04:35:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_toilet": {
     "criteria": {
       "has_toilets": "2025-05-10 04:32:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_basin": {
+    "criteria": {
+      "has_basins": "2025-05-10 04:34:14 +0000"
     },
     "done": true
   },
