@@ -32,7 +32,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-19 05:07:31 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-10 05:22:42 +0000",
       "minecraft:taiga": "2025-04-18 23:17:37 +0000",
+      "minecraft:frozen_river": "2025-05-10 05:22:50 +0000",
       "minecraft:sunflower_plains": "2025-04-17 04:35:05 +0000",
       "minecraft:cherry_grove": "2025-04-19 05:05:46 +0000",
       "minecraft:birch_forest": "2025-04-17 04:30:50 +0000",
@@ -10884,6 +10886,24 @@
   "a_man_with_plushies:first_spamton_voice_line": {
     "criteria": {
       "first_spamton_voice_line_0": "2025-05-10 05:12:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-05-10 05:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-10 05:24:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-10 05:24:16 +0000"
     },
     "done": true
   },
