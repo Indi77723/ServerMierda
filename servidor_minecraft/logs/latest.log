@@ -3724,3 +3724,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10May2025 05:35:08.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Eye Spy]
 [10May2025 05:35:12.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Eye Spy]
 [10May2025 05:41:06.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [+PARRY]
+[10May2025 06:02:52.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [A Mob in Your Pocket]

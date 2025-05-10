@@ -9122,6 +9122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-10 05:52:45 +0000"
+    },
+    "done": true
+  },
   "scguns:main/iron/m3_carabine": {
     "criteria": {
       "m3_carabine": "2025-05-10 05:52:30 +0000"
@@ -9185,6 +9191,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-10 05:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-05-10 05:52:45 +0000"
     },
     "done": true
   },
