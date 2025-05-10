@@ -2386,3 +2386,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10May2025 00:54:48.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
 [10May2025 00:54:50.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
 [10May2025 00:57:31.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3326ms or 66 ticks behind
+[10May2025 01:04:35.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:55833] logged in with entity id 11329 at (-661.9355558423102, 63.0625, 403.75467881264655)
+[10May2025 01:04:35.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[10May2025 01:05:00.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> listo Listo
+[10May2025 01:05:29.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> entonces el server listo?
+[10May2025 01:05:35.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Server listo
+[10May2025 01:06:05.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Gracias Bro
+[10May2025 01:06:19.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> de nada, me voy a salir para terminar de comer
+[10May2025 01:06:24.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Si quieres puedes salir abro ahorita a las 10
+[10May2025 01:06:34.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Dale dale Buen provecho bro
+[10May2025 01:06:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> va
+[10May2025 01:06:37.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[10May2025 01:06:37.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[10May2025 01:08:08.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6611ms or 132 ticks behind
