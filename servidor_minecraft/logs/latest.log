@@ -3236,3 +3236,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10May2025 03:49:38.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hghghg
 [10May2025 03:52:19.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51561, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
 [10May2025 03:52:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> awewwwwwwwww
+[10May2025 03:54:04.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito died
+[10May2025 03:54:04.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52190, l='ServerLevel[world]', x=-734.93, y=-256.00, z=300.59] died, message: 'Villager was killed'
+[10May2025 03:54:23.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> que
+[10May2025 03:54:28.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> te moriste we
+[10May2025 03:56:06.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[10May2025 03:56:06.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[10May2025 03:56:18.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:36397] logged in with entity id 53529 at (-661.9521143980016, 63.0, 381.6433092509592)
+[10May2025 03:56:18.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[10May2025 03:57:26.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[10May2025 03:57:26.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[10May2025 03:57:26.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 03:57:45.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:46975] logged in with entity id 54854 at (-535.3666514619991, 18.49520087700591, 445.9838789006841)
+[10May2025 03:57:45.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 03:57:55.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdassad
+[10May2025 03:58:03.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asfsafd
+[10May2025 04:02:56.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [A Stronger Material]
