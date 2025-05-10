@@ -12390,3 +12390,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10May2025 03:18:07.575] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=296}
 [10May2025 03:18:07.575] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=295}
 [10May2025 03:19:33.672] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-751, y=63, z=296}
+[10May2025 03:22:33.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 03:22:33.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 03:22:50.469] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=407}
+[10May2025 03:22:50.469] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=69, z=400}
+[10May2025 03:22:50.469] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=68, z=396}
+[10May2025 03:22:50.469] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=408}
+[10May2025 03:24:50.677] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 13
+[10May2025 03:24:50.677] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6eb82f1b, b=36, e=44}, net.minecraft.world.inventory.ResultContainer@5f4aa92d=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@5f4aa92d, c=net.minecraft.world.inventory.InventoryMenu@6eb82f1b, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6eb82f1b, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6eb82f1b, b=45, e=45}, net.minecraft.world.inventory.TransientCraftingContainer@2225800a=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@2225800a, c=net.minecraft.world.inventory.InventoryMenu@6eb82f1b, b=1, e=4}}
+[10May2025 03:24:50.677] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6eb82f1b, b=9, e=35}
+[10May2025 03:27:33.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10May2025 03:27:33.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10May2025 03:30:46.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37761, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[10May2025 03:31:51.158] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38051, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
