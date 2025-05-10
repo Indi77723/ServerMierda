@@ -5394,6 +5394,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-04-21 17:25:26 +0000",
+      "minecraft:chicken": "2025-05-10 05:06:02 +0000",
       "minecraft:wolf": "2025-05-01 20:17:28 +0000"
     },
     "done": false
@@ -10856,12 +10857,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
-    "criteria": {
-      "has_oak_leaves": "2025-05-10 04:30:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-10 04:28:28 +0000"
@@ -10877,6 +10872,18 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-10 04:28:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_oak_leaves": "2025-05-10 04:30:20 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_spamton_voice_line": {
+    "criteria": {
+      "first_spamton_voice_line_0": "2025-05-10 05:12:14 +0000"
     },
     "done": true
   },
