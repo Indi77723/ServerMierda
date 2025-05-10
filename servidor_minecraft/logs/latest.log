@@ -3218,3 +3218,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10May2025 03:14:03.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -2.007445860883763,-1.8842726201562359,-9.666581926879417
 [10May2025 03:30:46.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37761, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
 [10May2025 03:31:51.158] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38051, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
+[10May2025 03:33:35.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 fell from a high place
+[10May2025 03:36:17.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has made the advancement [Up, Up, and Away]
+[10May2025 03:40:49.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gsfad
+[10May2025 03:41:42.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:56163] logged in with entity id 45964 at (-85.59186065119312, 17.0, 48.97871375505927)
+[10May2025 03:41:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[10May2025 03:42:35.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[10May2025 03:42:35.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 03:42:41.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=23, z=47} BlockPos{x=-99, y=21, z=50}
