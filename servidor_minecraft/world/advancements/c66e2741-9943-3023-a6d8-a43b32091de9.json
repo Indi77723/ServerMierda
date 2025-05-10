@@ -5850,6 +5850,24 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-05-08 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-05-08 23:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-08 23:47:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-09 00:01:42 +0000"
@@ -5880,12 +5898,6 @@
     },
     "done": true
   },
-  "a_man_with_plushies:first_rare_plushie": {
-    "criteria": {
-      "first_rare_plushie_0": "2025-05-09 00:14:06 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-09 00:01:42 +0000"
@@ -5895,18 +5907,6 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-09 00:01:42 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:mommy": {
-    "criteria": {
-      "mommy_0": "2025-05-08 23:24:54 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/cooked_hogham": {
-    "criteria": {
-      "has_item": "2025-05-08 23:17:14 +0000"
     },
     "done": true
   },
@@ -5946,12 +5946,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-05-09 00:07:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-09 00:01:42 +0000"
@@ -5988,9 +5982,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
-      "has_hay_block": "2025-05-08 23:47:59 +0000"
+      "has_oak_trapdoor": "2025-05-09 00:07:33 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_rare_plushie": {
+    "criteria": {
+      "first_rare_plushie_0": "2025-05-09 00:14:06 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_staff_stars": {
+    "criteria": {
+      "gobber2_staff_stars": "2025-05-10 03:12:32 +0000"
     },
     "done": true
   },

@@ -3127,3 +3127,92 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10May2025 02:20:08.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gh
 [10May2025 02:20:31.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
 [10May2025 02:20:31.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 02:25:11.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:37671] logged in with entity id 6650 at (-2989.038151887622, 31.0, 353.5972149571666)
+[10May2025 02:25:11.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 02:25:23.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> menealo goblin
+[10May2025 02:25:41.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[10May2025 02:25:41.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 02:26:18.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:36391] logged in with entity id 7119 at (-2989.038151887622, 31.0, 353.5972149571666)
+[10May2025 02:26:18.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 02:26:42.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> la vida es una lenteja
+[10May2025 02:27:08.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[10May2025 02:27:08.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 02:27:26.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:39373] logged in with entity id 7678 at (-2989.038151887622, 31.0, 353.5972149571666)
+[10May2025 02:27:26.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 02:27:56.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[10May2025 02:27:56.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 02:28:08.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8064, l='ServerLevel[world]', x=-765.55, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[10May2025 02:29:22.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:42467] logged in with entity id 8353 at (-2989.038151887622, 31.0, 353.5972149571666)
+[10May2025 02:29:22.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 02:30:01.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[10May2025 02:30:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 02:30:51.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:52161] logged in with entity id 9043 at (-2989.038151887622, 31.0, 353.5972149571666)
+[10May2025 02:30:51.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 02:31:22.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[10May2025 02:31:22.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 02:31:39.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:47417] logged in with entity id 9588 at (-2989.038151887622, 31.0, 353.5972149571666)
+[10May2025 02:31:39.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 02:31:50.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[10May2025 02:31:50.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 02:36:56.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:49795] logged in with entity id 11300 at (-2989.038151887622, 31.0, 353.5972149571666)
+[10May2025 02:36:56.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 02:37:18.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hola goblin
+[10May2025 02:37:33.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[10May2025 02:37:33.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 02:37:45.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:49997] logged in with entity id 11724 at (-2989.038151887622, 31.0, 353.5972149571666)
+[10May2025 02:37:45.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 02:38:00.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> has algo pinche goblin
+[10May2025 02:38:11.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> g
+[10May2025 02:38:16.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sueltame goblin
+[10May2025 02:38:45.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[10May2025 02:38:45.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 02:39:13.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:46351] logged in with entity id 12382 at (-2989.038151887622, 31.0, 353.5972149571666)
+[10May2025 02:39:13.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 02:39:32.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pinche goblin
+[10May2025 02:40:13.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya basta goblin
+[10May2025 02:41:13.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ggg
+[10May2025 02:41:51.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> y
+[10May2025 02:43:49.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adasd
+[10May2025 02:44:29.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[10May2025 02:44:29.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 02:44:58.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:51847] logged in with entity id 14677 at (-2962.740057099105, 24.0, 330.59808635835844)
+[10May2025 02:44:58.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 02:45:16.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> goblin era jugando
+[10May2025 02:45:57.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15181, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[10May2025 02:46:01.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15196, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[10May2025 02:47:34.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> g
+[10May2025 02:50:59.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsasdasd
+[10May2025 02:52:10.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> g
+[10May2025 02:54:35.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsasad
+[10May2025 02:54:53.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sueltame lag
+[10May2025 02:56:16.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2957, y=-8, z=333} BlockPos{x=-2957, y=-9, z=334}
+[10May2025 02:57:29.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.61.112.4:56697] logged in with entity id 19430 at (-658.5283249221163, 73.0, 398.02704612864227)
+[10May2025 02:57:29.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[10May2025 02:57:31.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> auelt
+[10May2025 02:58:00.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[10May2025 02:58:00.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[10May2025 02:58:20.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:58979] logged in with entity id 19631 at (-2966.889068813585, 25.0, 341.86557586584684)
+[10May2025 02:58:20.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 02:58:39.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gggg
+[10May2025 03:00:40.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ponle que diga, lageado hasta la muerte
+[10May2025 03:04:38.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['I'll find you'/5564, l='ServerLevel[world]', x=-547.82, y=62.32, z=383.91] died: I'll find you drowned
+[10May2025 03:04:42.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['There is no escape'/5567, l='ServerLevel[world]', x=-545.85, y=60.71, z=381.62] died: There is no escape drowned
+[10May2025 03:05:05.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['There is no escape'/5566, l='ServerLevel[world]', x=-547.75, y=60.32, z=381.40] died: There is no escape drowned
+[10May2025 03:07:50.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3107, y=-33, z=278} BlockPos{x=-3106, y=-33, z=278}
+[10May2025 03:07:50.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3106, y=-33, z=279} BlockPos{x=-3106, y=-33, z=280}
+[10May2025 03:07:50.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3106, y=-33, z=279} BlockPos{x=-3106, y=-33, z=280}
+[10May2025 03:08:12.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24039, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[10May2025 03:09:12.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3124, y=-27, z=274} BlockPos{x=-3121, y=-27, z=273}
+[10May2025 03:09:41.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3125, y=-30, z=269} BlockPos{x=-3126, y=-30, z=269}
+[10May2025 03:09:48.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3123, y=-28, z=265} BlockPos{x=-3122, y=-29, z=265}
+[10May2025 03:09:49.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3123, y=-28, z=265} BlockPos{x=-3123, y=-29, z=264}
+[10May2025 03:09:49.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3123, y=-28, z=265} BlockPos{x=-3123, y=-29, z=264}
+[10May2025 03:10:04.558] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25054, l='ServerLevel[world]', x=-734.97, y=-256.00, z=301.50] died, message: 'Villager was killed'
+[10May2025 03:10:19.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3121, y=-24, z=277} BlockPos{x=-3120, y=-23, z=277}
+[10May2025 03:10:19.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3122, y=-24, z=276} BlockPos{x=-3120, y=-23, z=277}
+[10May2025 03:11:33.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3112, y=-27, z=277} BlockPos{x=-3112, y=-28, z=278}
+[10May2025 03:11:42.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3105, y=-39, z=277} BlockPos{x=-3106, y=-40, z=277}
+[10May2025 03:11:46.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3101, y=-40, z=278} BlockPos{x=-3101, y=-39, z=279}
+[10May2025 03:12:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has made the advancement [Light up the World]
+[10May2025 03:13:13.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26851, l='ServerLevel[world]', x=-734.97, y=-256.00, z=301.20] died, message: 'Villager was killed'
+[10May2025 03:14:03.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -2.007445860883763,-1.8842726201562359,-9.666581926879417
