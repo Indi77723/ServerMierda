@@ -3721,3 +3721,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10May2025 05:32:11.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasdsa
 [10May2025 05:33:48.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [10May2025 05:33:48.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[10May2025 05:35:08.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Eye Spy]
+[10May2025 05:35:12.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Eye Spy]
+[10May2025 05:41:06.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [+PARRY]
