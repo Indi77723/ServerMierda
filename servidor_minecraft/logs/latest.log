@@ -3226,3 +3226,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10May2025 03:42:35.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
 [10May2025 03:42:35.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [10May2025 03:42:41.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=23, z=47} BlockPos{x=-99, y=21, z=50}
+[10May2025 03:44:34.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:36911] logged in with entity id 48509 at (-538.1335717144274, 8.0, 410.7001407798522)
+[10May2025 03:44:34.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[10May2025 03:44:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> la vida es una lenteja
+[10May2025 03:46:24.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no lageeeees
+[10May2025 03:46:31.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> ay
+[10May2025 03:48:06.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -8.495241606626678,1.3659372676081887,-5.336599562035531
+[10May2025 03:48:15.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> assdaads1
+[10May2025 03:49:38.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hghghg
+[10May2025 03:52:19.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51561, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[10May2025 03:52:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> awewwwwwwwww
