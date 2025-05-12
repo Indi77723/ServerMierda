@@ -10980,9 +10980,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
-      "has_gold_ore": "2025-05-10 05:48:42 +0000"
+      "has_diamond_ore": "2025-05-10 05:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-05-10 05:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-05-10 05:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-05-10 05:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-05-10 05:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-05-10 05:46:41 +0000"
     },
     "done": true
   },
@@ -10998,9 +11028,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
-      "has_emerald_ore": "2025-05-10 05:38:42 +0000"
+      "has_gold_ore": "2025-05-10 05:48:42 +0000"
     },
     "done": true
   },
@@ -11010,33 +11040,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "brewery:recipes/sausage": {
     "criteria": {
-      "has_coal_ore": "2025-05-10 05:46:41 +0000"
+      "has_cooked_beef": "2025-05-12 03:31:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
-      "has_emerald_ore": "2025-05-10 05:38:42 +0000"
+      "has_cobweb": "2025-05-12 03:31:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+  "gobber2:gobber2_excavator": {
     "criteria": {
-      "has_coal_ore": "2025-05-10 05:46:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-05-10 05:37:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-05-10 05:37:24 +0000"
+      "gobber2_excavator": "2025-05-12 03:35:17 +0000"
     },
     "done": true
   },

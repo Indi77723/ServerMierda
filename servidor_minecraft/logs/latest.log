@@ -2392,3 +2392,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12May2025 03:15:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
 [12May2025 03:17:18.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.181.40.203:40231] logged in with entity id 4093 at (-760.5518802445147, 64.0, 304.18944343253014)
 [12May2025 03:17:18.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[12May2025 03:24:28.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[12May2025 03:24:28.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[12May2025 03:24:28.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:47931] logged in with entity id 5951 at (-659.5124999880791, 65.82240005493173, 407.5437649713048)
+[12May2025 03:24:28.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[12May2025 03:26:42.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6304, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[12May2025 03:27:20.616] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6440, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[12May2025 03:27:38.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6557, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[12May2025 03:27:41.316] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6612, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[12May2025 03:28:48.617] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6895, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[12May2025 03:35:17.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [The Big Digger]
