@@ -2419,3 +2419,8 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [12May2025 22:32:58.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:60955] logged in with entity id 4798 at (-658.6512358587255, 63.0, 407.45298920108297)
 [12May2025 22:32:58.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [12May2025 22:35:04.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5500, l='ServerLevel[world]', x=-765.51, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[12May2025 22:37:38.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6144, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[12May2025 22:38:17.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> te va bien pokenaito?
+[12May2025 22:38:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> de momento si, un poco lag pero estable
+[12May2025 22:38:36.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Tambien Me va algo lag
+[12May2025 22:38:46.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya listo me va mejor

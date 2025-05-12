@@ -9208,3 +9208,15 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [12May2025 22:35:33.827] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
 [12May2025 22:35:33.827] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@3400e142=InventoryMapping{i=net.minecraft.world.CompoundContainer@3400e142, c=net.minecraft.world.inventory.ChestMenu@5c02118a, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5c02118a, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5c02118a, b=54, e=80}}
 [12May2025 22:35:33.827] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3400e142, c=net.minecraft.world.inventory.ChestMenu@5c02118a, b=0, e=53}
+[12May2025 22:36:48.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 22:36:48.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 22:37:12.220] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[12May2025 22:37:12.220] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@75b22413=InventoryMapping{i=net.minecraft.world.CompoundContainer@75b22413, c=net.minecraft.world.inventory.ChestMenu@74c591fb, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@74c591fb, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@74c591fb, b=54, e=80}}
+[12May2025 22:37:12.221] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@75b22413, c=net.minecraft.world.inventory.ChestMenu@74c591fb, b=0, e=53}
+[12May2025 22:37:38.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6144, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[12May2025 22:38:17.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> te va bien pokenaito?
+[12May2025 22:38:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> de momento si, un poco lag pero estable
+[12May2025 22:38:36.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Tambien Me va algo lag
+[12May2025 22:38:46.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya listo me va mejor
+[12May2025 22:41:48.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 22:41:48.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
