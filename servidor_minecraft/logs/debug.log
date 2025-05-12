@@ -10453,3 +10453,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12May2025 05:40:21.496] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@2e612f9a, c=net.minecraft.world.inventory.ChestMenu@76a9061b, b=0, e=53}
 [12May2025 05:41:18.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12May2025 05:41:18.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 05:43:13.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=13, z=126} BlockPos{x=-77, y=12, z=125}
+[12May2025 05:45:30.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=22, z=100} BlockPos{x=-43, y=22, z=97}
+[12May2025 05:45:30.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=22, z=100} BlockPos{x=-43, y=22, z=97}
+[12May2025 05:45:30.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=22, z=100} BlockPos{x=-43, y=22, z=97}
+[12May2025 05:46:18.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 05:46:18.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 05:47:44.345] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 41
+[12May2025 05:47:44.345] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@5e233414=InventoryMapping{i=net.minecraft.world.CompoundContainer@5e233414, c=net.minecraft.world.inventory.ChestMenu@3790fdb8, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3790fdb8, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3790fdb8, b=81, e=89}}
+[12May2025 05:47:44.345] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@5e233414, c=net.minecraft.world.inventory.ChestMenu@3790fdb8, b=0, e=53}
+[12May2025 05:48:28.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=21, z=140} BlockPos{x=22, y=22, z=140}
+[12May2025 05:48:32.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=22, z=143} BlockPos{x=22, y=22, z=142}
+[12May2025 05:48:32.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=22, z=143} BlockPos{x=22, y=22, z=142}
+[12May2025 05:48:32.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=22, z=143} BlockPos{x=22, y=22, z=142}
+[12May2025 05:48:32.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=22, z=143} BlockPos{x=22, y=22, z=142}
+[12May2025 05:48:32.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=22, z=143} BlockPos{x=22, y=22, z=142}
+[12May2025 05:49:19.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=22, z=97} BlockPos{x=22, y=22, z=97}
+[12May2025 05:49:19.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=22, z=97} BlockPos{x=22, y=22, z=97}
+[12May2025 05:50:02.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -3.12185525132179,0.25721129055035874,9.65117794232691
+[12May2025 05:50:08.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ASDASDSA
+[12May2025 05:51:09.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
+[12May2025 05:51:09.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -1.678368129403772,-1.0,9.8842575333652
+[12May2025 05:51:09.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! -0.21127932931835858,2.9575180812758077,9.71507279398088
+[12May2025 05:51:21.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 05:51:21.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 05:51:50.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Plushie Gambling!!!]
+[12May2025 05:52:02.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [A little bit of luck...]
+[12May2025 05:52:06.764] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 15
+[12May2025 05:52:06.764] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2d556781, b=54, e=80}, net.minecraft.world.CompoundContainer@3eda5511=InventoryMapping{i=net.minecraft.world.CompoundContainer@3eda5511, c=net.minecraft.world.inventory.ChestMenu@2d556781, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2d556781, b=81, e=89}}
+[12May2025 05:52:06.764] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3eda5511, c=net.minecraft.world.inventory.ChestMenu@2d556781, b=0, e=53}
+[12May2025 05:52:08.198] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 40
+[12May2025 05:52:08.198] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2d556781, b=54, e=80}, net.minecraft.world.CompoundContainer@3eda5511=InventoryMapping{i=net.minecraft.world.CompoundContainer@3eda5511, c=net.minecraft.world.inventory.ChestMenu@2d556781, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2d556781, b=81, e=89}}
+[12May2025 05:52:08.198] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3eda5511, c=net.minecraft.world.inventory.ChestMenu@2d556781, b=0, e=53}
