@@ -2413,3 +2413,5 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
 [12May2025 22:12:30.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ninoninonni
+[12May2025 22:20:10.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.151.120.119:36427] logged in with entity id 2090 at (-657.1298495684532, 67.0, 347.62578440745995)
+[12May2025 22:20:10.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game

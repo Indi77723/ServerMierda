@@ -11041,9 +11041,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-05-12 03:31:28 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/sausage": {
     "criteria": {
       "has_cooked_beef": "2025-05-12 03:31:56 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_excavator": {
+    "criteria": {
+      "gobber2_excavator": "2025-05-12 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-05-12 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-05-12 03:48:03 +0000"
     },
     "done": true
   },
@@ -11053,9 +11077,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
-      "has_item": "2025-05-12 06:39:05 +0000"
+      "has_item": "2025-05-12 03:50:30 +0000"
     },
     "done": true
   },
@@ -11071,6 +11095,18 @@
     },
     "done": true
   },
+  "a_man_with_plushies:first_rare_plushie": {
+    "criteria": {
+      "first_rare_plushie_0": "2025-05-12 06:14:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/cardboard_from_block": {
     "criteria": {
       "has_item": "2025-05-12 06:39:05 +0000"
@@ -11080,12 +11116,6 @@
   "create:recipes/misc/crafting/materials/bound_cardboard_block": {
     "criteria": {
       "has_item": "2025-05-12 06:39:05 +0000"
-    },
-    "done": true
-  },
-  "a_man_with_plushies:first_rare_plushie": {
-    "criteria": {
-      "first_rare_plushie_0": "2025-05-12 06:14:27 +0000"
     },
     "done": true
   },
@@ -11110,12 +11140,6 @@
   "create:recipes/misc/crafting/appliances/cardboard_sword": {
     "criteria": {
       "has_item": "2025-05-12 06:39:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-05-12 03:48:03 +0000"
     },
     "done": true
   },
@@ -11155,33 +11179,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-05-12 03:50:30 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/cardboard_chestplate": {
     "criteria": {
       "has_item": "2025-05-12 06:39:05 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-05-12 03:31:28 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/cardboard_boots": {
     "criteria": {
       "has_item": "2025-05-12 06:39:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-05-12 03:48:03 +0000"
     },
     "done": true
   },
@@ -11200,12 +11206,6 @@
   "create:recipes/misc/crafting/logistics/stock_ticker": {
     "criteria": {
       "has_item": "2025-05-12 06:39:05 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_excavator": {
-    "criteria": {
-      "gobber2_excavator": "2025-05-12 03:35:17 +0000"
     },
     "done": true
   },
