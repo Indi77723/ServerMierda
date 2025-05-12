@@ -9237,6 +9237,42 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_repair": {
+    "criteria": {
+      "gobber2_ring_repair": "2025-05-12 05:33:22 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_vision": {
+    "criteria": {
+      "gobber2_ring_vision": "2025-05-12 06:23:54 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/treated_brass_blueprint": {
+    "criteria": {
+      "treated_brass_blueprint": "2025-05-12 06:28:41 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_macerator": {
+    "criteria": {
+      "macerator": "2025-05-12 06:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-12 06:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-12 06:29:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-12 06:31:30 +0000"
@@ -9246,18 +9282,6 @@
   "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-12 06:31:30 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:nightnight": {
-    "criteria": {
-      "nightnight_0": "2025-05-12 06:41:31 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_ring_repair": {
-    "criteria": {
-      "gobber2_ring_repair": "2025-05-12 05:33:22 +0000"
     },
     "done": true
   },
@@ -9276,18 +9300,6 @@
   "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-12 06:31:30 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_ring_vision": {
-    "criteria": {
-      "gobber2_ring_vision": "2025-05-12 06:23:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-05-12 06:29:23 +0000"
     },
     "done": true
   },
@@ -9339,12 +9351,6 @@
     },
     "done": true
   },
-  "scguns:main/craft_macerator": {
-    "criteria": {
-      "macerator": "2025-05-12 06:29:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-12 06:31:30 +0000"
@@ -9381,15 +9387,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "undead_revamp2:nightnight": {
     "criteria": {
-      "has_iron_block": "2025-05-12 06:29:23 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/treated_brass_blueprint": {
-    "criteria": {
-      "treated_brass_blueprint": "2025-05-12 06:28:41 +0000"
+      "nightnight_0": "2025-05-12 06:41:31 +0000"
     },
     "done": true
   },
