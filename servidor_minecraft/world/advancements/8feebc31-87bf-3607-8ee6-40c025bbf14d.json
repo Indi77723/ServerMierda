@@ -11531,5 +11531,11 @@
     },
     "done": true
   },
+  "brewery:main/drying_expertise": {
+    "criteria": {
+      "silo": "2025-05-12 22:30:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

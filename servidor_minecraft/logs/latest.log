@@ -2415,3 +2415,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [12May2025 22:12:30.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ninoninonni
 [12May2025 22:20:10.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.151.120.119:36427] logged in with entity id 2090 at (-657.1298495684532, 67.0, 347.62578440745995)
 [12May2025 22:20:10.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[12May2025 22:30:42.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has reached the goal [Drying Expertise]
+[12May2025 22:32:58.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:60955] logged in with entity id 4798 at (-658.6512358587255, 63.0, 407.45298920108297)
+[12May2025 22:32:58.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[12May2025 22:35:04.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5500, l='ServerLevel[world]', x=-765.51, y=-256.00, z=338.99] died, message: 'Villager was killed'
