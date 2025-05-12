@@ -9122,15 +9122,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
-      "has_smithing_trim_template": "2025-05-10 05:52:45 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-05-10 05:16:43 +0000"
     },
     "done": true
   },
-  "scguns:main/iron/m3_carabine": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "m3_carabine": "2025-05-10 05:52:30 +0000"
+      "has_smithing_trim_template": "2025-05-10 05:16:43 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-10 05:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-05-10 05:35:08 +0000"
     },
     "done": true
   },
@@ -9146,31 +9158,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-10 05:16:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold_betterstrongholds": "2025-05-10 05:35:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-10 05:35:09 +0000"
     },
     "done": true
   },
-  "brewery:recipes/breathalyzer": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_iron_nugget": "2025-05-10 05:16:46 +0000"
+      "has_mossy_stone_bricks": "2025-05-10 05:35:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-10 05:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-10 05:35:09 +0000"
     },
@@ -9182,15 +9188,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+  "scguns:main/iron/m3_carabine": {
     "criteria": {
-      "has_smithing_trim_template": "2025-05-10 05:16:43 +0000"
+      "m3_carabine": "2025-05-10 05:52:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-05-10 05:35:09 +0000"
+      "has_smithing_trim_template": "2025-05-10 05:52:45 +0000"
     },
     "done": true
   },
@@ -9200,9 +9206,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+  "a_man_with_plushies:first_golden_plush_box": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-05-10 05:35:09 +0000"
+      "first_golden_plush_box_0": "2025-05-10 06:06:30 +0000"
     },
     "done": true
   },
