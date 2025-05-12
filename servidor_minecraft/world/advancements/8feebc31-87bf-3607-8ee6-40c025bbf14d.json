@@ -11159,6 +11159,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/blue_toilet": {
+    "criteria": {
+      "has_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-05-12 04:14:29 +0000"
@@ -11201,9 +11207,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/blue_bath": {
+    "criteria": {
+      "has_blue_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_drawer": {
+    "criteria": {
+      "has_blue_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_toilet": {
+    "criteria": {
+      "has_blue_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-12 04:14:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_blue_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 06:04:33 +0000"
     },
     "done": true
   },
@@ -11252,6 +11300,24 @@
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
     "criteria": {
       "has_red_dye": "2025-05-12 04:51:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
+    "criteria": {
+      "has_blue_dye": "2025-05-12 06:04:33 +0000"
     },
     "done": true
   },
@@ -11333,6 +11399,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/blue_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_basin": {
+    "criteria": {
+      "has_blue_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-12 04:14:29 +0000"
@@ -11357,15 +11435,33 @@
     },
     "done": true
   },
+  "brewery:recipes/patterned_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-05-12 06:06:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-12 04:14:29 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/blue_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-12 04:51:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_blue_dye": "2025-05-12 06:04:33 +0000"
     },
     "done": true
   },
@@ -11405,9 +11501,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-12 04:14:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 06:04:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 06:04:33 +0000"
     },
     "done": true
   },

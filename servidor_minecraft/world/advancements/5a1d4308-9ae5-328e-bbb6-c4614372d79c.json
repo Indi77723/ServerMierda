@@ -2153,6 +2153,7 @@
       "rice": "2025-04-20 16:27:45 +0000",
       "beetroot": "2025-04-21 17:26:01 +0000",
       "brown_mushroom": "2025-05-01 19:56:10 +0000",
+      "sugar_cane": "2025-05-12 06:06:56 +0000",
       "potato": "2025-04-19 05:55:21 +0000",
       "red_mushroom": "2025-04-20 18:25:56 +0000",
       "nether_wart": "2025-05-06 03:58:33 +0000",
@@ -11061,6 +11062,12 @@
   "a_man_with_plushies:first_uncommon_plushie": {
     "criteria": {
       "first_uncommon_plushie_0": "2025-05-12 05:52:02 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_rare_plushie": {
+    "criteria": {
+      "first_rare_plushie_0": "2025-05-12 06:14:27 +0000"
     },
     "done": true
   },

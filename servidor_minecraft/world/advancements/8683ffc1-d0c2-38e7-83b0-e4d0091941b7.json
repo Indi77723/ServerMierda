@@ -11804,5 +11804,17 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_vision": {
+    "criteria": {
+      "gobber2_ring_vision": "2025-05-12 06:23:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2025-05-12 06:23:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
