@@ -2403,3 +2403,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12May2025 03:28:48.617] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6895, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
 [12May2025 03:35:17.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [The Big Digger]
 [12May2025 03:51:55.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11818, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[12May2025 04:01:48.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> como era lo de del chunk? cual era el comando?
+[12May2025 04:02:09.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Cual Chunk?
+[12May2025 04:02:27.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> osea para ver las lineas que marcan el chunk
+[12May2025 04:02:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> f3 + G
+[12May2025 04:07:51.984] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54f5a707[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:54027) lost connection: Disconnected
+[12May2025 04:07:59.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:54641] logged in with entity id 17618 at (-1186.7978613833282, 68.81208744145447, 3937.546033419593)
+[12May2025 04:07:59.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[12May2025 04:09:03.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:52657] logged in with entity id 18779 at (-677.1540277913048, 68.07312760440595, 336.0242451469933)
+[12May2025 04:09:03.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[12May2025 04:09:07.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> consegui un caballo con speed 9.77
+[12May2025 04:09:17.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Otro con 10.52
+[12May2025 04:09:32.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Alamadre estos cosos son rapidos
+[12May2025 04:09:37.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> la vida la vida es un carrusel
+[12May2025 04:09:55.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no los veo en discord
+[12May2025 04:10:14.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> leche condensada
+[12May2025 04:11:28.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina was kicked for floating too long!
+[12May2025 04:11:28.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Flying is not enabled on this server
+[12May2025 04:11:28.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[12May2025 04:11:52.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:35457] logged in with entity id 20125 at (-852.9281486821955, 93.6881006348638, 4177.190099870616)
+[12May2025 04:11:52.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[12May2025 04:14:24.866] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12May2025 04:14:24.866] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12May2025 04:18:49.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asddas
+[12May2025 04:19:46.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26519, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[12May2025 04:19:57.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26592, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
