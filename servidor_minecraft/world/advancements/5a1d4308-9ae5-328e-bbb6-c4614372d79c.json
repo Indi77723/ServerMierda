@@ -11052,6 +11052,18 @@
     },
     "done": true
   },
+  "a_man_with_plushies:first_golden_plush_box": {
+    "criteria": {
+      "first_golden_plush_box_0": "2025-05-12 05:51:50 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_uncommon_plushie": {
+    "criteria": {
+      "first_uncommon_plushie_0": "2025-05-12 05:52:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/gold_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-05-12 03:48:03 +0000"

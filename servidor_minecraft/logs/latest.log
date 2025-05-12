@@ -2492,3 +2492,73 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12May2025 05:51:09.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! -0.21127932931835858,2.9575180812758077,9.71507279398088
 [12May2025 05:51:50.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Plushie Gambling!!!]
 [12May2025 05:52:02.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [A little bit of luck...]
+[12May2025 05:53:19.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12May2025 05:53:57.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -3.064581983505377,-0.8589849707839505,-9.65294048469832
+[12May2025 05:53:57.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -3.079752589941336,-0.1292330546740743,10.080874861120776
+[12May2025 05:53:58.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved wrongly!
+[12May2025 05:53:58.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -1.5374138464624139,-0.14937749752752438,10.189167167019832
+[12May2025 05:54:17.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 3.9831370632314247,0.1758769206077062,9.86608961411838
+[12May2025 05:54:17.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.70953983197478,0.226123910273742,-9.706089704722672
+[12May2025 05:54:18.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 4.370746677786087,0.06101848756692618,9.656697905334397
+[12May2025 05:54:18.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.825913252971077,0.2729183281903147,-10.120884247531421
+[12May2025 05:54:21.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 6.345677213610998,-0.028107365045258348,8.433900835558234
+[12May2025 05:54:21.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.7838825940784773,0.27234021589644897,-9.970353288788374
+[12May2025 05:54:25.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.824553878813731,0.274911150188899,-10.116015708435953
+[12May2025 05:54:25.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! -2.8854936335280286,1.195881175975913,-10.18956717894821
+[12May2025 05:54:27.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.7838825940784773,0.27234021589644897,-9.970353288788374
+[12May2025 05:54:30.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.77552928696673,0.27234021589644897,-9.940436285235137
+[12May2025 05:54:34.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.8019083263973243,0.272664269870063,-10.034911656867962
+[12May2025 05:54:34.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 7.897037800896328,-0.7723577798497132,-6.152633975003539
+[12May2025 05:54:34.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
+[12May2025 05:54:42.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 1.8808202542876415,2.4831049904508973,-9.964013742749955
+[12May2025 05:54:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ASDASD
+[12May2025 05:54:57.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -3.881915982305145,0.21037349909265401,-9.294283077892032
+[12May2025 05:54:59.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -4.055120466631706,0.20316012128824923,-9.716071626893154
+[12May2025 05:54:59.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! 8.900734211501685,1.5542576263461,-5.09028785794726
+[12May2025 05:55:05.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.783355489444375,-0.9110332688069178,-9.965970584192064
+[12May2025 05:55:08.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! -6.009123705192792,0.6271438454751319,8.25919158499255
+[12May2025 05:55:08.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.786366996386505,-0.9508399589432344,-9.876812524056504
+[12May2025 05:55:11.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gasadsa
+[12May2025 05:55:14.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsasads
+[12May2025 05:55:15.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[12May2025 05:55:17.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.3280619498627857,-0.4250470918121749,-9.913031162875996
+[12May2025 05:55:20.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.4282941873500477,-0.5221687355502667,-10.353025651083726
+[12May2025 05:55:20.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culooo
+[12May2025 05:55:23.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.3054371108112264,-0.4250397197418181,-9.829224841253563
+[12May2025 05:55:27.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.3289144210898485,-0.46553463034256026,-9.92932028900941
+[12May2025 05:55:34.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.3130736398122735,-0.4403496544234855,-9.957585038871457
+[12May2025 05:55:36.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 7.417293902980646,0.8558593642035532,-7.8248035713901345
+[12May2025 05:55:52.517] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/117583, l='ServerLevel[world]', x=-574.45, y=-256.00, z=400.78] died, message: 'Villager was killed'
+[12May2025 05:56:05.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -1.7337139802402817,0.3346334834238007,-9.931733752928267
+[12May2025 05:56:08.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -1.759430744868041,0.49654882495559605,-10.076748337133267
+[12May2025 05:56:10.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -1.8063423537489598,0.3734373156197677,-10.34542414316411
+[12May2025 05:56:12.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -1.7989244239370237,0.3725464413607966,-10.302939600076115
+[12May2025 05:56:14.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -1.794541841525188,0.3725464413607966,-10.277839334091823
+[12May2025 05:56:14.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -5.876688056787259,-0.8114525215777206,8.381601292568348
+[12May2025 05:56:22.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/117669, l='ServerLevel[world]', x=-765.15, y=-256.00, z=338.93] died, message: 'Villager was killed'
+[12May2025 05:58:53.067] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/120559, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[12May2025 06:00:11.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.247749571090935,0.18980068759907454,-9.92956865728047
+[12May2025 06:00:11.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! -9.38574802773394,1.2740586793626818,-4.393978522410009
+[12May2025 06:00:15.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.3782217276077517,0.1758769206077062,-10.505860367314199
+[12May2025 06:00:15.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! -9.240855903091415,0.6844900747612996,-5.289292645118962
+[12May2025 06:00:17.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.2626922920237575,0.19336012109751266,-9.995505885362036
+[12May2025 06:00:17.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! -10.496108125728142,0.9992347852516019,-1.1828295271344587
+[12May2025 06:00:20.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.37726298357984,0.1758769206077062,-10.501625089113531
+[12May2025 06:00:27.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.3706370314275773,0.2311664928303827,-10.472631982219355
+[12May2025 06:00:30.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.3517903539620875,0.19336012109751266,-10.389099040913152
+[12May2025 06:00:33.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.263473558904252,0.21253126088691943,-9.998957155053631
+[12May2025 06:00:41.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -1.6327545298138375,-0.8117605232896352,-9.994374971268826
+[12May2025 06:00:43.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -1.682140010513649,-0.8472315218091495,-10.060843103146453
+[12May2025 06:00:47.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -1.3627643681732025,-1.12021703931498,-10.135879926191592
+[12May2025 06:00:52.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -1.3509797482727208,-1.2769374203806905,-10.049516460997893
+[12May2025 06:01:52.851] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager af7cc235: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[12May2025 06:01:53.444] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager af7cc235: RandomSpreadSearchWorker succeeded with 2434 radius, 36 samples
+[12May2025 06:01:58.681] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager af7cc235: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[12May2025 06:01:58.890] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager af7cc235: RandomSpreadSearchWorker succeeded with 3151 radius, 23 samples
+[12May2025 06:02:02.241] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager af7cc235: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[12May2025 06:02:06.842] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager af7cc235: RandomSpreadSearchWorker succeeded with 5730 radius, 83 samples
+[12May2025 06:02:06.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -0.01605268268940563,2.586111344133684,9.784727961713543
+[12May2025 06:02:06.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3927ms or 78 ticks behind
+[12May2025 06:02:11.165] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager af7cc235: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[12May2025 06:02:11.203] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager af7cc235: RandomSpreadSearchWorker succeeded with 945 radius, 2 samples
+[12May2025 06:02:28.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/124629, l='ServerLevel[world]', x=-765.60, y=-256.00, z=338.96] died, message: 'Villager was killed'

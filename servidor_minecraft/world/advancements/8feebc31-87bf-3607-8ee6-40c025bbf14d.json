@@ -11375,6 +11375,12 @@
     },
     "done": true
   },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-05-12 05:56:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_basin": {
     "criteria": {
       "has_red_dye": "2025-05-12 04:51:16 +0000"
