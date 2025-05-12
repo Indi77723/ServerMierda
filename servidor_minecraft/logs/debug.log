@@ -9509,3 +9509,27 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [12May2025 23:15:40.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Si es mas rapido
 [12May2025 23:16:05.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> tan en discord?
 [12May2025 23:16:15.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yo no avisen
+[12May2025 23:16:48.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:16:48.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 23:17:02.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya estoy ahi
+[12May2025 23:17:55.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/938, l='ServerLevel[world]', x=-611.50, y=63.00, z=438.50] died, message: 'Farmer was killed by magic'
+[12May2025 23:19:59.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Pobresito
+[12May2025 23:20:13.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Un aldeano mio murio por una situacion extraña
+[12May2025 23:20:16.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Exploto
+[12May2025 23:20:17.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 10.305549769936306,0.3070441735731322,-0.4420501917440447
+[12May2025 23:20:26.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> lo normal
+[12May2025 23:21:48.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:21:48.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 23:22:25.023] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 49
+[12May2025 23:22:25.023] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@499d7a6e=InventoryMapping{i=net.minecraft.world.CompoundContainer@499d7a6e, c=net.minecraft.world.inventory.ChestMenu@763ef955, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@763ef955, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@763ef955, b=54, e=80}}
+[12May2025 23:22:25.023] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@499d7a6e, c=net.minecraft.world.inventory.ChestMenu@763ef955, b=0, e=53}
+[12May2025 23:24:50.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> que haces
+[12May2025 23:24:51.721] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 41
+[12May2025 23:24:51.722] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@38c75b94, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@38c75b94, b=54, e=80}, net.minecraft.world.CompoundContainer@2a20ca4e=InventoryMapping{i=net.minecraft.world.CompoundContainer@2a20ca4e, c=net.minecraft.world.inventory.ChestMenu@38c75b94, b=0, e=53}}
+[12May2025 23:24:51.722] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@2a20ca4e, c=net.minecraft.world.inventory.ChestMenu@38c75b94, b=0, e=53}
+[12May2025 23:24:59.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mina
+[12May2025 23:25:00.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> e hey estoy construyendo abajao
+[12May2025 23:25:10.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[12May2025 23:25:17.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> cuidao
+[12May2025 23:26:48.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:26:48.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

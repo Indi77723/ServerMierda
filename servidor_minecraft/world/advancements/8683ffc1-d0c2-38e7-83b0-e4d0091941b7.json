@@ -11816,5 +11816,11 @@
     },
     "done": true
   },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "brewery:corn": "2025-05-12 23:12:24 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
