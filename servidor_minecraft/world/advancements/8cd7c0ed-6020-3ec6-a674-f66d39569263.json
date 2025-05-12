@@ -9249,6 +9249,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2025-05-12 06:41:31 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_repair": {
     "criteria": {
       "gobber2_ring_repair": "2025-05-12 05:33:22 +0000"

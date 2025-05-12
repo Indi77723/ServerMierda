@@ -2581,3 +2581,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12May2025 06:26:11.450] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BlundererEntity['Blunderer'/144572, l='ServerLevel[world]', x=-2589.50, y=69.00, z=2126.50]
 [12May2025 06:30:22.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -10.094616325566676,0.47253003265329596,1.4398701683153945
 [12May2025 06:31:18.964] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12May2025 06:41:31.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Night Night]
+[12May2025 06:42:17.965] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/156660, l='ServerLevel[world]', x=-574.04, y=-256.00, z=400.50] died, message: 'Villager was killed'

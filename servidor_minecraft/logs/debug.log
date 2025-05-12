@@ -10811,3 +10811,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12May2025 06:31:32.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12May2025 06:31:32.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12May2025 06:33:07.309] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 9
+[12May2025 06:36:32.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 06:36:32.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 06:41:31.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Night Night]
+[12May2025 06:41:32.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 06:41:32.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 06:42:17.965] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/156660, l='ServerLevel[world]', x=-574.04, y=-256.00, z=400.50] died, message: 'Villager was killed'
+[12May2025 06:43:12.494] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[12May2025 06:43:12.494] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@5f9a2c9f=InventoryMapping{i=net.minecraft.world.CompoundContainer@5f9a2c9f, c=net.minecraft.world.inventory.ChestMenu@1a768a71, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1a768a71, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1a768a71, b=81, e=89}}
+[12May2025 06:43:12.494] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@5f9a2c9f, c=net.minecraft.world.inventory.ChestMenu@1a768a71, b=0, e=53}

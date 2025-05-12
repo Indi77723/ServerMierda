@@ -11053,6 +11053,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
   "a_man_with_plushies:first_golden_plush_box": {
     "criteria": {
       "first_golden_plush_box_0": "2025-05-12 05:51:50 +0000"
@@ -11065,9 +11071,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/cardboard_from_block": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/bound_cardboard_block": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
   "a_man_with_plushies:first_rare_plushie": {
     "criteria": {
       "first_rare_plushie_0": "2025-05-12 06:14:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/book": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_block": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_leggings": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_sword": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
     },
     "done": true
   },
@@ -11077,9 +11119,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/cardboard_helmet": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:cardboard": {
+    "criteria": {
+      "0": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/package_frogport": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_requester": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_link": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/name_tag": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-05-12 03:50:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
     },
     "done": true
   },
@@ -11089,9 +11173,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/cardboard_boots": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/gold_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-05-12 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/packager": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/item_frame": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_ticker": {
+    "criteria": {
+      "has_item": "2025-05-12 06:39:05 +0000"
     },
     "done": true
   },
