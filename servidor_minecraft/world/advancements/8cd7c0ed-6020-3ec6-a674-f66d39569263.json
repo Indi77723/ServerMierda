@@ -1670,6 +1670,7 @@
       "minecraft:spider": "2025-04-19 04:35:39 +0000",
       "minecraft:creeper": "2025-04-20 16:44:58 +0000",
       "minecraft:phantom": "2025-04-26 04:13:54 +0000",
+      "minecraft:zombified_piglin": "2025-05-12 05:06:47 +0000",
       "minecraft:wither_skeleton": "2025-05-01 23:57:11 +0000",
       "minecraft:husk": "2025-05-04 04:58:57 +0000",
       "minecraft:cave_spider": "2025-05-04 01:23:50 +0000",
@@ -9227,6 +9228,12 @@
   "a_man_with_plushies:first_rare_plushie": {
     "criteria": {
       "first_rare_plushie_0": "2025-05-12 04:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-12 05:00:46 +0000"
     },
     "done": true
   },

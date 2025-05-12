@@ -2448,3 +2448,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12May2025 04:44:02.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 9.070905506733425,-3.932525353806355,-2.7944738678900762
 [12May2025 04:44:19.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdassd
 [12May2025 04:44:22.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44116, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
+[12May2025 04:59:22.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina was kicked for floating too long!
+[12May2025 04:59:22.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Flying is not enabled on this server
+[12May2025 04:59:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[12May2025 04:59:42.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:45011] logged in with entity id 57523 at (-115.22161351233515, 57.87101638251548, 1019.5717575997055)
+[12May2025 04:59:42.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[12May2025 05:00:43.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 10.421072198166712,-0.6137063333003852,1.5662926270921957
+[12May2025 05:00:48.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58877, l='ServerLevel[world]', x=-574.45, y=-256.00, z=400.78] died, message: 'Villager was killed'
+[12May2025 05:03:37.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sadasd
+[12May2025 05:04:17.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved wrongly!
+[12May2025 05:10:43.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 3.447533468309416,1.678703893876886,-9.292616352860989
+[12May2025 05:10:50.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasd

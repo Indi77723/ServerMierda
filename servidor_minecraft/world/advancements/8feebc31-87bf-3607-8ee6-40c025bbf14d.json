@@ -11177,6 +11177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-05-12 04:58:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-12 04:51:16 +0000"
@@ -11258,6 +11264,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
     "criteria": {
       "has_yellow_dye": "2025-05-12 04:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-12 05:04:04 +0000"
     },
     "done": true
   },
