@@ -9220,3 +9220,64 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [12May2025 22:38:46.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya listo me va mejor
 [12May2025 22:41:48.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12May2025 22:41:48.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 22:46:48.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 22:46:48.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 22:46:59.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asda
+[12May2025 22:47:55.652] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 48
+[12May2025 22:47:55.652] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@6f5c83e7=InventoryMapping{i=net.minecraft.world.CompoundContainer@6f5c83e7, c=net.minecraft.world.inventory.ChestMenu@cdf0543, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@cdf0543, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@cdf0543, b=54, e=80}}
+[12May2025 22:47:55.653] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6f5c83e7, c=net.minecraft.world.inventory.ChestMenu@cdf0543, b=0, e=53}
+[12May2025 22:49:12.359] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9266, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[12May2025 22:51:36.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ay no
+[12May2025 22:51:38.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> vamo a dormir
+[12May2025 22:51:48.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 22:51:48.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 22:51:59.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> voy
+[12May2025 22:52:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Dormismos?
+[12May2025 22:55:01.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ?
+[12May2025 22:55:04.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[12May2025 22:56:08.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XD
+[12May2025 22:56:11.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ete mmgb
+[12May2025 22:56:13.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> epa
+[12May2025 22:56:17.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> tengo maiz
+[12May2025 22:56:21.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ta bueno el silenciador
+[12May2025 22:56:27.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> vamo a toma cerveza
+[12May2025 22:56:40.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> COO
+[12May2025 22:56:42.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> COÑO
+[12May2025 22:56:45.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> LoPicaste verdad?
+[12May2025 22:56:48.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 22:56:48.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 22:56:50.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no
+[12May2025 22:56:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> A
+[12May2025 22:57:00.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> bueno se jodio la cerverz
+[12May2025 22:57:10.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya te la consigo
+[12May2025 22:57:17.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> era la unica que tenia xd
+[12May2025 22:59:57.574] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 22
+[12May2025 22:59:57.574] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@7eb6a8b1=InventoryMapping{i=net.minecraft.world.CompoundContainer@7eb6a8b1, c=net.minecraft.world.inventory.ChestMenu@a56015e, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@a56015e, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@a56015e, b=54, e=80}}
+[12May2025 22:59:57.574] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@7eb6a8b1, c=net.minecraft.world.inventory.ChestMenu@a56015e, b=0, e=53}
+[12May2025 22:59:59.625] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 14
+[12May2025 22:59:59.625] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@47a4548e=InventoryMapping{i=net.minecraft.world.CompoundContainer@47a4548e, c=net.minecraft.world.inventory.ChestMenu@1ee81512, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1ee81512, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1ee81512, b=54, e=80}}
+[12May2025 22:59:59.625] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@47a4548e, c=net.minecraft.world.inventory.ChestMenu@1ee81512, b=0, e=53}
+[12May2025 23:00:08.032] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 41
+[12May2025 23:00:08.033] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6dfdddd7, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6dfdddd7, b=54, e=80}, net.minecraft.world.CompoundContainer@1b1a9944=InventoryMapping{i=net.minecraft.world.CompoundContainer@1b1a9944, c=net.minecraft.world.inventory.ChestMenu@6dfdddd7, b=0, e=53}}
+[12May2025 23:00:08.033] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@1b1a9944, c=net.minecraft.world.inventory.ChestMenu@6dfdddd7, b=0, e=53}
+[12May2025 23:00:10.125] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[12May2025 23:00:10.125] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@263a0fee=InventoryMapping{i=net.minecraft.world.CompoundContainer@263a0fee, c=net.minecraft.world.inventory.ChestMenu@76825e4, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@76825e4, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@76825e4, b=54, e=80}}
+[12May2025 23:00:10.125] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@263a0fee, c=net.minecraft.world.inventory.ChestMenu@76825e4, b=0, e=53}
+[12May2025 23:01:38.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 10.388341411894203,-1.7360260462018715,0.7247691757210077
+[12May2025 23:01:44.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdsad
+[12May2025 23:01:48.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:01:48.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 23:03:06.356] [Worker-Main-25/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12May2025 23:03:06.357] [Worker-Main-25/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12May2025 23:03:06.357] [Worker-Main-25/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12May2025 23:03:06.359] [Worker-Main-25/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12May2025 23:03:06.363] [Worker-Main-25/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[12May2025 23:03:06.363] [Worker-Main-25/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[12May2025 23:03:06.363] [Worker-Main-25/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[12May2025 23:03:06.363] [Worker-Main-25/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[12May2025 23:03:06.363] [Worker-Main-25/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[12May2025 23:03:06.363] [Worker-Main-25/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[12May2025 23:03:06.877] [Worker-Main-36/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12May2025 23:03:06.878] [Worker-Main-36/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12May2025 23:04:14.825] [Worker-Main-56/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[12May2025 23:05:51.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20136, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.99] died, message: 'Villager was killed'
