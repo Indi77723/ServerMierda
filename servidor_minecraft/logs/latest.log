@@ -2504,3 +2504,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [12May2025 23:25:00.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> e hey estoy construyendo abajao
 [12May2025 23:25:10.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
 [12May2025 23:25:17.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> cuidao
+[12May2025 23:29:07.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33202, l='ServerLevel[world]', x=952.19, y=70.00, z=873.22] died, message: 'Villager died whilst trying to escape The Spitter'
+[12May2025 23:29:11.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33287, l='ServerLevel[world]', x=990.51, y=70.00, z=870.53] died, message: 'Villager died whilst trying to escape The Spitter'
+[12May2025 23:29:14.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/33286, l='ServerLevel[world]', x=989.43, y=70.00, z=869.41] died, message: 'Nitwit liquified to Fanta juice'
+[12May2025 23:36:13.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina drowned
+[12May2025 23:36:39.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[12May2025 23:36:39.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game

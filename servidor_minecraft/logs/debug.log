@@ -9533,3 +9533,17 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [12May2025 23:25:17.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> cuidao
 [12May2025 23:26:48.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12May2025 23:26:48.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 23:28:25.281] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[12May2025 23:29:07.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33202, l='ServerLevel[world]', x=952.19, y=70.00, z=873.22] died, message: 'Villager died whilst trying to escape The Spitter'
+[12May2025 23:29:11.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33287, l='ServerLevel[world]', x=990.51, y=70.00, z=870.53] died, message: 'Villager died whilst trying to escape The Spitter'
+[12May2025 23:29:14.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/33286, l='ServerLevel[world]', x=989.43, y=70.00, z=869.41] died, message: 'Nitwit liquified to Fanta juice'
+[12May2025 23:31:48.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:31:48.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 23:36:13.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina drowned
+[12May2025 23:36:39.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[12May2025 23:36:39.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[12May2025 23:36:47.473] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 14
+[12May2025 23:36:47.473] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.ResultContainer@3fbabd9b=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@3fbabd9b, c=net.minecraft.world.inventory.InventoryMenu@370d8c38, b=0, e=0}, net.minecraft.world.inventory.TransientCraftingContainer@14310cf4=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@14310cf4, c=net.minecraft.world.inventory.InventoryMenu@370d8c38, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@370d8c38, b=36, e=44}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@370d8c38, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@370d8c38, b=45, e=45}}
+[12May2025 23:36:47.473] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@370d8c38, b=9, e=35}
+[12May2025 23:36:48.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:36:48.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
