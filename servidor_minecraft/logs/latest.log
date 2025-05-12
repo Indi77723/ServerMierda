@@ -2471,3 +2471,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12May2025 05:27:05.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-291, y=15, z=144} BlockPos{x=-291, y=15, z=141}
 [12May2025 05:27:05.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-291, y=15, z=144} BlockPos{x=-291, y=15, z=141}
 [12May2025 05:27:05.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-291, y=15, z=144} BlockPos{x=-291, y=15, z=141}
+[12May2025 05:33:22.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Better Than Mending]
+[12May2025 05:37:40.966] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/89674, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
