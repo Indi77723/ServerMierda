@@ -11370,5 +11370,17 @@
     },
     "done": true
   },
+  "rpgsmw:ancientmaterial": {
+    "criteria": {
+      "ancientmaterial_0": "2025-05-13 04:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-13 04:29:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

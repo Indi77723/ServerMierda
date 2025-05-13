@@ -2846,3 +2846,11 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 04:24:04.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The City at the End of the Game]
 [13May2025 04:24:29.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [The City at the End of the Game]
 [13May2025 04:24:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Enderman
+[13May2025 04:25:15.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has completed the challenge [Ancient material]
+[13May2025 04:28:30.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/189675, l='ServerLevel[world]', x=-574.45, y=-256.00, z=400.78] died, message: 'Villager was killed'
+[13May2025 04:29:02.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [The City at the End of the Game]
+[13May2025 04:29:04.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [The City at the End of the Game]
+[13May2025 04:30:15.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/190351, l='ServerLevel[world]', x=-765.60, y=-256.00, z=338.95] died, message: 'Villager was killed'
+[13May2025 04:31:03.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -8.507825142351521,1.587963106046999,-5.063438127195184
+[13May2025 04:33:14.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[13May2025 04:33:39.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2647ms or 52 ticks behind

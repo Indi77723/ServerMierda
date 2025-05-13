@@ -9550,5 +9550,11 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-13 04:29:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
