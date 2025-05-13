@@ -2510,3 +2510,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [12May2025 23:36:13.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina drowned
 [12May2025 23:36:39.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [12May2025 23:36:39.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[12May2025 23:47:33.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:56211] logged in with entity id 47184 at (-662.3016177658691, 63.0, 382.7752772630503)
+[12May2025 23:47:33.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[12May2025 23:49:28.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[12May2025 23:49:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[12May2025 23:49:39.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:55185] logged in with entity id 48835 at (-663.9816025729158, 63.0625, 400.0217194133529)
+[12May2025 23:49:39.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[12May2025 23:50:40.368] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49598, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[12May2025 23:58:40.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ADS
