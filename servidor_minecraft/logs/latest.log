@@ -2718,3 +2718,54 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 03:53:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> go
 [13May2025 03:54:07.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gdssad
 [13May2025 03:54:18.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsasd
+[13May2025 03:56:03.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The End?]
+[13May2025 03:56:04.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [The End?]
+[13May2025 03:56:04.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [The End?]
+[13May2025 03:56:05.626] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[13May2025 03:56:05.629] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[13May2025 03:56:06.333] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[13May2025 03:56:06.334] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[13May2025 03:56:06.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 1021.9538750897775,41.2636940683425,1222.2093751600294
+[13May2025 03:56:06.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 1021.6885647029951,41.2636940683425,1222.3364291673126
+[13May2025 03:56:06.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [The End?]
+[13May2025 03:56:06.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2766ms or 55 ticks behind
+[13May2025 03:56:06.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! 1022.383126020647,41.2636940683425,1222.412817825853
+[13May2025 03:56:35.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[13May2025 03:56:35.131] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[13May2025 03:57:05.297] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[13May2025 03:57:05.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[13May2025 03:57:05.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[13May2025 03:57:05.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 03:57:22.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:41155] logged in with entity id 180009 at (49.26678043482092, 79.86578604948858, 14.43588476636204)
+[13May2025 03:57:22.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[13May2025 03:58:04.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[13May2025 03:58:04.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[13May2025 03:58:04.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 03:58:14.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:40375] logged in with entity id 180115 at (3.525675284506225, 65.3011472801626, -33.359557753320544)
+[13May2025 03:58:14.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[13May2025 03:58:25.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[13May2025 03:58:25.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[13May2025 03:58:25.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[13May2025 03:58:35.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:41603] logged in with entity id 180132 at (-44.77805913847671, 71.68317908900829, -13.12713031741061)
+[13May2025 03:58:35.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[13May2025 03:58:43.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> wtf
+[13May2025 03:59:31.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[13May2025 03:59:31.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[13May2025 03:59:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 03:59:42.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 was kicked for floating too long!
+[13May2025 03:59:42.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Flying is not enabled on this server
+[13May2025 03:59:42.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[13May2025 03:59:47.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:47487] logged in with entity id 180221 at (-10.464449902362865, 82.8532932276238, 52.86758083384446)
+[13May2025 03:59:47.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[13May2025 03:59:52.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.151.120.119:46055] logged in with entity id 180232 at (23.048313803681886, 70.6089575075483, -3.2808611906294067)
+[13May2025 03:59:52.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[13May2025 04:00:07.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasd
+[13May2025 04:02:04.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Free the End]
+[13May2025 04:02:17.333] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[13May2025 04:02:18.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[13May2025 04:02:18.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[13May2025 04:02:18.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 04:02:28.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:49913] logged in with entity id 180994 at (-12.102832533948133, 76.62836754941752, 5.653902459894426)
+[13May2025 04:02:28.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[13May2025 04:03:32.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [The Key to Unbreakable Gear]
+[13May2025 04:03:42.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has reached the goal [The Next Generation]

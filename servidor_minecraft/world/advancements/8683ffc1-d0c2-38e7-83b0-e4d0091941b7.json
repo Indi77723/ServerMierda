@@ -11874,6 +11874,30 @@
     },
     "done": true
   },
+  "brewery:main/get_saturated": {
+    "criteria": {
+      "saturated": "2025-05-13 01:32:58 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/eat_everything": {
+    "criteria": {
+      "pretzel": "2025-05-13 01:32:58 +0000"
+    },
+    "done": false
+  },
+  "brewery:main/copper_brewmaster": {
+    "criteria": {
+      "brewing_station": "2025-05-13 01:38:03 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_maggoallan": {
+    "criteria": {
+      "whiskey_maggoallan": "2025-05-13 01:39:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-05-13 01:53:35 +0000"
@@ -11883,6 +11907,30 @@
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-05-13 01:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-13 01:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-13 01:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-13 01:53:35 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/treated_brass/spitfire": {
+    "criteria": {
+      "spitfire": "2025-05-13 02:27:06 +0000"
     },
     "done": true
   },
@@ -11898,51 +11946,9 @@
     },
     "done": true
   },
-  "brewery:main/get_whiskey_maggoallan": {
-    "criteria": {
-      "whiskey_maggoallan": "2025-05-13 01:39:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-05-13 01:53:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-05-13 03:06:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-05-13 01:53:35 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/get_saturated": {
-    "criteria": {
-      "saturated": "2025-05-13 01:32:58 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/eat_everything": {
-    "criteria": {
-      "pretzel": "2025-05-13 01:32:58 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-05-13 01:53:35 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/copper_brewmaster": {
-    "criteria": {
-      "brewing_station": "2025-05-13 01:38:03 +0000"
     },
     "done": true
   },
@@ -11952,15 +11958,21 @@
     },
     "done": true
   },
-  "scguns:main/treated_brass/spitfire": {
-    "criteria": {
-      "spitfire": "2025-05-13 02:27:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-05-13 03:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-13 03:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-13 03:56:03 +0000"
     },
     "done": true
   },

@@ -11213,39 +11213,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+  "brewery:recipes/barrel_main": {
     "criteria": {
-      "has_birch_planks": "2025-05-13 02:22:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-05-13 03:24:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
-    "criteria": {
-      "has_birch_planks": "2025-05-13 02:22:35 +0000"
-    },
-    "done": true
-  },
-  "takesapillage:bastille": {
-    "criteria": {
-      "in_bastille": "2025-05-13 03:36:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-05-13 03:24:28 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/get_whiskey_maggoallan": {
-    "criteria": {
-      "whiskey_maggoallan": "2025-05-13 01:41:12 +0000"
+      "has_barrel": "2025-05-13 01:04:44 +0000"
     },
     "done": true
   },
@@ -11255,33 +11225,39 @@
     },
     "done": true
   },
+  "brewery:main/get_whiskey_maggoallan": {
+    "criteria": {
+      "whiskey_maggoallan": "2025-05-13 01:41:12 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_dried_wheat": {
+    "criteria": {
+      "dry_wheat": "2025-05-13 01:46:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-05-13 02:22:35 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/onion": {
-    "criteria": {
-      "has_onion_crate": "2025-05-13 03:44:09 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-05-13 02:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-05-13 03:24:28 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/barrel_main": {
-    "criteria": {
-      "has_barrel": "2025-05-13 01:04:44 +0000"
     },
     "done": true
   },
@@ -11297,21 +11273,57 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-05-13 03:24:28 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
       "has_birch_planks": "2025-05-13 02:22:35 +0000"
     },
     "done": true
   },
-  "brewery:main/get_dried_wheat": {
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
-      "dry_wheat": "2025-05-13 01:46:32 +0000"
+      "has_pumpkin": "2025-05-13 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-13 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-13 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-05-13 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2025-05-13 03:36:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-05-13 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-13 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-13 03:56:06 +0000"
     },
     "done": true
   },
