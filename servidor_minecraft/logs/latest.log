@@ -2572,3 +2572,7 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 01:39:22.896] [Server thread/WARN] [brewery/]: ending event! brewery:kettle
 [13May2025 01:39:30.248] [Server thread/WARN] [brewery/]: ending event! brewery:kettle
 [13May2025 01:40:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [An Even Better Block Breaker]
+[13May2025 01:48:25.645] [Server thread/WARN] [brewery/]: ending event! brewery:kettle
+[13May2025 01:48:41.866] [Server thread/WARN] [brewery/]: ending event! brewery:oven
+[13May2025 01:48:56.049] [Server thread/WARN] [brewery/]: ending event! brewery:timer
+[13May2025 01:49:57.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/98688, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
