@@ -11555,5 +11555,35 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-05-13 01:28:22 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_pickaxe_nether": {
+    "criteria": {
+      "gobber2_pickaxe_nether": "2025-05-13 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-05-13 01:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-05-13 01:28:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-05-13 01:28:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

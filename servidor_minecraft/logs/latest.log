@@ -2551,3 +2551,24 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 01:28:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> -954, 108 3587
 [13May2025 01:28:34.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/84660, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
 [13May2025 01:29:46.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85778, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[13May2025 01:32:19.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[13May2025 01:32:19.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 01:32:34.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:50309] logged in with entity id 87465 at (-649.8933353881811, 63.0, 401.9851967043727)
+[13May2025 01:32:34.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[13May2025 01:33:32.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/88208, l='ServerLevel[world]', x=-765.60, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[13May2025 01:34:03.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/88567, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[13May2025 01:34:37.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[13May2025 01:34:37.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[13May2025 01:34:37.113] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13May2025 01:34:48.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/88666, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[13May2025 01:35:44.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/89330, l='ServerLevel[world]', x=-765.59, y=-256.00, z=338.95] died, message: 'Villager was killed'
+[13May2025 01:36:39.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:48965] logged in with entity id 89878 at (-921.9905028847969, -54.0, 3604.5746950224207)
+[13May2025 01:36:39.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[13May2025 01:38:03.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Copper Brewmaster]
+[13May2025 01:38:41.404] [Server thread/WARN] [brewery/]: ending event! brewery:timer
+[13May2025 01:38:55.047] [Server thread/WARN] [brewery/]: ending event! brewery:kettle
+[13May2025 01:39:04.997] [Server thread/WARN] [brewery/]: ending event! brewery:oven
+[13May2025 01:39:17.620] [Server thread/WARN] [brewery/]: ending event! brewery:oven
+[13May2025 01:39:22.896] [Server thread/WARN] [brewery/]: ending event! brewery:kettle
+[13May2025 01:39:30.248] [Server thread/WARN] [brewery/]: ending event! brewery:kettle
+[13May2025 01:40:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [An Even Better Block Breaker]

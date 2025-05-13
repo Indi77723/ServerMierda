@@ -11835,15 +11835,9 @@
     },
     "done": true
   },
-  "brewery:main/brewing_pioneer": {
+  "netherexp:recipes/misc/pump_charge_upgrade_smithing_template": {
     "criteria": {
-      "brewing_station": "2025-05-13 01:18:39 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/drying_expertise": {
-    "criteria": {
-      "silo": "2025-05-13 01:15:39 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-05-13 00:36:38 +0000"
     },
     "done": true
   },
@@ -11854,15 +11848,51 @@
     },
     "done": false
   },
-  "netherexp:recipes/misc/pump_charge_upgrade_smithing_template": {
+  "brewery:main/drying_expertise": {
     "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-13 00:36:38 +0000"
+      "silo": "2025-05-13 01:15:39 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/brewing_pioneer": {
+    "criteria": {
+      "brewing_station": "2025-05-13 01:18:39 +0000"
     },
     "done": true
   },
   "brewery:main/get_dried_wheat": {
     "criteria": {
       "dry_wheat": "2025-05-13 01:22:56 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_wheat": {
+    "criteria": {
+      "beer_wheat": "2025-05-13 01:26:34 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_maggoallan": {
+    "criteria": {
+      "whiskey_maggoallan": "2025-05-13 01:39:47 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_saturated": {
+    "criteria": {
+      "saturated": "2025-05-13 01:32:58 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/eat_everything": {
+    "criteria": {
+      "pretzel": "2025-05-13 01:32:58 +0000"
+    },
+    "done": false
+  },
+  "brewery:main/copper_brewmaster": {
+    "criteria": {
+      "brewing_station": "2025-05-13 01:38:03 +0000"
     },
     "done": true
   },
