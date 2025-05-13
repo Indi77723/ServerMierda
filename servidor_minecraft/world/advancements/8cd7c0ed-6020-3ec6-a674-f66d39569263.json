@@ -9557,6 +9557,18 @@
     },
     "done": true
   },
+  "scguns:main/end/raygun": {
+    "criteria": {
+      "raygun": "2025-05-13 05:18:32 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:ancientmaterial": {
+    "criteria": {
+      "ancientmaterial_0": "2025-05-13 05:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-05-13 04:29:04 +0000"
