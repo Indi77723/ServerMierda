@@ -2425,3 +2425,129 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [13May2025 00:39:01.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Sneak 100]
 [13May2025 00:41:13.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -3.096764723502929,-1.5,9.446965880771415
 [13May2025 00:41:13.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6186ms or 123 ticks behind
+[13May2025 00:51:08.083] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38876, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[13May2025 00:51:09.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 was slain by Zombie62002 using [StungStungStungSahur]
+[13May2025 00:53:59.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-48, y=17, z=267} BlockPos{x=-48, y=16, z=268}
+[13May2025 00:54:07.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44180, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[13May2025 01:01:34.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.7058429544127875,-1.3787031594607981,9.67538626837927
+[13May2025 01:01:34.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3834ms or 76 ticks behind
+[13May2025 01:09:20.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:49209] logged in with entity id 63010 at (-808.4174962460604, -58.0, -103.08477817683003)
+[13May2025 01:09:20.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[13May2025 01:09:29.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adasd
+[13May2025 01:09:58.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sadadsads
+[13May2025 01:10:53.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64570, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
+[13May2025 01:15:17.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69898, l='ServerLevel[world]', x=-765.59, y=-256.00, z=338.94] died, message: 'Villager was killed'
+[13May2025 01:15:39.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Drying Expertise]
+[13May2025 01:18:39.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Brew Pioneer]
+[13May2025 01:22:41.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> -925. 6 3658
+[13May2025 01:24:34.261] [IO-Worker-59/WARN] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to bulk scan chunk [-65, 126]
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:244) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158) ~[?:?]
+	at java.util.zip.InflaterInputStream.skip(InflaterInputStream.java:212) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.skip(FastBufferedInputStream.java:68) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.io.DataInputStream.skipBytes(DataInputStream.java:226) ~[?:?]
+	at net.minecraft.nbt.StringTag.m_197563_(StringTag.java:48) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_196159_(CompoundTag.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_196159_(CompoundTag.java:109) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.TagType$VariableSize.m_196189_(TagType.java:50) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.ListTag$1.m_196159_(ListTag.java:92) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_196511_(CompoundTag.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.NbtIo.m_197509_(NbtIo.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_196956_(RegionFileStorage.java:65) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223499_(IOWorker.java:223) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223468_(IOWorker.java:236) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13May2025 01:24:34.263] [Worker-Main-1/WARN] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to scan chunk [-65, 126]
+java.util.concurrent.CompletionException: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.concurrent.CompletableFuture.reportJoin(CompletableFuture.java:413) ~[?:?]
+	at java.util.concurrent.CompletableFuture.join(CompletableFuture.java:2118) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223478_(IOWorker.java:143) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.ChunkPos$1.tryAdvance(ChunkPos.java:203) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223503_(IOWorker.java:136) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:244) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158) ~[?:?]
+	at java.util.zip.InflaterInputStream.skip(InflaterInputStream.java:212) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.skip(FastBufferedInputStream.java:68) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.io.DataInputStream.skipBytes(DataInputStream.java:226) ~[?:?]
+	at net.minecraft.nbt.StringTag.m_197563_(StringTag.java:48) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_196159_(CompoundTag.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_196159_(CompoundTag.java:109) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.TagType$VariableSize.m_196189_(TagType.java:50) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.ListTag$1.m_196159_(ListTag.java:92) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_196511_(CompoundTag.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.NbtIo.m_197509_(NbtIo.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_196956_(RegionFileStorage.java:65) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223499_(IOWorker.java:223) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223468_(IOWorker.java:236) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13May2025 01:25:15.057] [Server thread/WARN] [brewery/]: ending event! brewery:oven
+[13May2025 01:25:17.697] [Server thread/WARN] [brewery/]: ending event! brewery:timer
+[13May2025 01:25:43.001] [Server thread/WARN] [brewery/]: ending event! brewery:oven
+[13May2025 01:25:47.256] [Server thread/WARN] [brewery/]: ending event! brewery:timer
+[13May2025 01:25:48.594] [IO-Worker-61/WARN] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to read chunk [-65, 126]
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.NbtIo.m_128928_(NbtIo.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63706_(RegionFileStorage.java:57) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223494_(IOWorker.java:186) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_223468_(IOWorker.java:236) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:244) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.read(FastBufferedInputStream.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.io.DataInputStream.readFully(DataInputStream.java:201) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:602) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:558) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_128432_(CompoundTag.java:469) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	... 20 more
+[13May2025 01:25:57.903] [Server thread/WARN] [brewery/]: ending event! brewery:oven
+[13May2025 01:27:23.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -0.5085319338531917,-1.4289847535244888,10.156623786376713
+[13May2025 01:27:39.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-953, y=87, z=3587} BlockPos{x=-951, y=85, z=3587}
+[13May2025 01:27:39.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-953, y=87, z=3587} BlockPos{x=-951, y=85, z=3587}
+[13May2025 01:27:39.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-953, y=87, z=3587} BlockPos{x=-951, y=85, z=3587}
+[13May2025 01:27:39.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[13May2025 01:28:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> -954, 108 3587
+[13May2025 01:28:34.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/84660, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[13May2025 01:29:46.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85778, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'

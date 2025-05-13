@@ -11209,5 +11209,11 @@
     },
     "done": true
   },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-05-13 01:04:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

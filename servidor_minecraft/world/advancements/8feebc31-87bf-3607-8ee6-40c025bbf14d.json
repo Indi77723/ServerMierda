@@ -11531,15 +11531,21 @@
     },
     "done": true
   },
+  "brewery:main/drying_expertise": {
+    "criteria": {
+      "silo": "2025-05-12 22:30:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-12 23:39:20 +0000"
     },
     "done": true
   },
-  "brewery:main/drying_expertise": {
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
     "criteria": {
-      "silo": "2025-05-12 22:30:42 +0000"
+      "has_item": "2025-05-12 23:39:20 +0000"
     },
     "done": true
   },
@@ -11548,12 +11554,6 @@
       "brewery:corn": "2025-05-12 23:48:17 +0000"
     },
     "done": false
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-05-12 23:39:20 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
