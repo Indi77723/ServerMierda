@@ -2854,3 +2854,12 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 04:31:03.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -8.507825142351521,1.587963106046999,-5.063438127195184
 [13May2025 04:33:14.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
 [13May2025 04:33:39.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2647ms or 52 ticks behind
+[13May2025 04:35:47.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 3.323126073549986,1.9169618638977042,-9.454113681661283
+[13May2025 04:35:52.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gfgf
+[13May2025 04:37:45.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> 707 61 -1256
+[13May2025 04:38:13.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Is There no End to Gobber?]
+[13May2025 04:39:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Cover Me with Diamonds]
+[13May2025 04:40:47.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 3.609737891724876,5.014954795495306,7.9809761416286165
+[13May2025 04:40:53.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[13May2025 04:42:39.005] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c08ef2f5: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13May2025 04:42:39.057] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c08ef2f5: RandomSpreadSearchWorker succeeded with 727 radius, 1 samples

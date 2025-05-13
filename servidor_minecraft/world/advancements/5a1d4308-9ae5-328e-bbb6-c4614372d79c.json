@@ -1159,6 +1159,7 @@
       "minecraft:witch": "2025-05-13 03:40:38 +0000",
       "minecraft:wither_skeleton": "2025-05-08 03:17:26 +0000",
       "minecraft:ender_dragon": "2025-05-13 04:02:04 +0000",
+      "minecraft:shulker": "2025-05-13 04:31:33 +0000",
       "minecraft:piglin": "2025-04-27 20:30:17 +0000",
       "minecraft:enderman": "2025-04-21 17:21:40 +0000",
       "minecraft:silverfish": "2025-05-08 05:47:29 +0000",
@@ -11367,6 +11368,24 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-05-13 04:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-13 04:38:32 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob_end": {
+    "criteria": {
+      "gobber2_glob_end": "2025-05-13 04:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-05-13 04:31:34 +0000"
     },
     "done": true
   },
