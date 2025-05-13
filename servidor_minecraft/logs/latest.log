@@ -2699,3 +2699,22 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 03:43:10.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:45013] logged in with entity id 174129 at (-1405.121363012942, 70.0, -3068.0551897214964)
 [13May2025 03:43:10.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
 [13May2025 03:43:25.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ADS
+[13May2025 03:44:09.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/170629, l='ServerLevel[world]', x=-1421.66, y=64.00, z=-3030.41] died, message: 'Fisherman burned to death'
+[13May2025 03:44:43.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/170576, l='ServerLevel[world]', x=-1385.44, y=82.00, z=-3034.16] died, message: 'Villager went up in flames'
+[13May2025 03:45:02.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[13May2025 03:45:02.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[13May2025 03:45:23.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:37413] logged in with entity id 174814 at (-1457.240493646542, 76.0, -2986.649529885054)
+[13May2025 03:45:23.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[13May2025 03:45:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gogo
+[13May2025 03:47:07.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -10.426324596344102,1.3038941550150156,-0.8433563322103623
+[13May2025 03:47:30.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/176987, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[13May2025 03:48:13.732] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/177180, l='ServerLevel[world]', x=-751.50, y=-256.00, z=300.70] died, message: 'Villager was killed'
+[13May2025 03:49:40.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/177461, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[13May2025 03:50:20.232] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/177756, l='ServerLevel[world]', x=-765.53, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[13May2025 03:53:30.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[13May2025 03:53:30.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 03:53:47.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:39239] logged in with entity id 178949 at (-662.8514536408917, 67.0, 330.3067163601714)
+[13May2025 03:53:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[13May2025 03:53:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> go
+[13May2025 03:54:07.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gdssad
+[13May2025 03:54:18.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsasd

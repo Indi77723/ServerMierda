@@ -11261,6 +11261,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-05-13 03:44:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-05-13 02:22:35 +0000"
