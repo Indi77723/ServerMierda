@@ -2904,3 +2904,16 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 05:45:15.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/234369, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
 [13May2025 05:46:27.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 0.462412417864698,-1.3877970213943058,10.258350106253118
 [13May2025 05:46:34.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[13May2025 05:47:29.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[13May2025 05:47:29.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 05:50:18.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [The Key to Unbreakable Gear]
+[13May2025 05:50:47.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -7.054587174065773,1.050157909369176,7.716389670287981
+[13May2025 05:50:48.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [An Unbreakable and Deadly Bow]
+[13May2025 05:51:10.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 3.4709858963595934,-1.3651574319826238,9.835640686907709
+[13May2025 05:55:47.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 3.4012253881040806,1.1784236143957685,-10.147013740114971
+[13May2025 05:57:04.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3958ms or 79 ticks behind
+[13May2025 05:57:04.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 0.9020384797285317,0.2583381469291339,-10.171349232983175
+[13May2025 06:04:00.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [A Supreme Material]
+[13May2025 06:04:23.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [An Unbreakable and Deadly Blade]
+[13May2025 06:04:34.383] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/249630, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.59] died, message: 'Villager was killed'
+[13May2025 06:05:07.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/249874, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'

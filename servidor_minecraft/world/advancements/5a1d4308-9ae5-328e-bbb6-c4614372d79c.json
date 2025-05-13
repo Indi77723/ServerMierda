@@ -11401,6 +11401,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_sword_end": {
+    "criteria": {
+      "gobber2_sword_end": "2025-05-13 06:04:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-05-13 04:45:44 +0000"
@@ -11416,6 +11422,12 @@
   "gobber2:gobber2_bow_end": {
     "criteria": {
       "gobber2_bow_end": "2025-05-13 05:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-05-13 05:51:28 +0000"
     },
     "done": true
   },
@@ -11440,6 +11452,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-05-13 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot_end": {
+    "criteria": {
+      "gobber2_ingot_end": "2025-05-13 06:04:00 +0000"
     },
     "done": true
   },
