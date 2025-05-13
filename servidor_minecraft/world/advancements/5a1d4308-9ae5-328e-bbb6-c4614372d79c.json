@@ -11407,6 +11407,24 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/tiles": {
+    "criteria": {
+      "has_planks": "2025-05-13 05:44:27 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_bow_end": {
+    "criteria": {
+      "gobber2_bow_end": "2025-05-13 05:36:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/tiles_from_etched": {
+    "criteria": {
+      "has_planks": "2025-05-13 05:44:27 +0000"
+    },
+    "done": true
+  },
   "rpgsmw:ancientmaterial": {
     "criteria": {
       "ancientmaterial_0": "2025-05-13 04:25:15 +0000"
