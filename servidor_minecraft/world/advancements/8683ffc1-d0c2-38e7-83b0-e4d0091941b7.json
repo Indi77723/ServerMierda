@@ -452,6 +452,7 @@
       "minecraft:spider": "2025-04-11 22:32:49 +0000",
       "minecraft:creeper": "2025-04-11 03:27:05 +0000",
       "minecraft:phantom": "2025-04-23 05:52:38 +0000",
+      "minecraft:witch": "2025-05-13 02:41:53 +0000",
       "minecraft:wither_skeleton": "2025-04-21 21:08:55 +0000",
       "minecraft:husk": "2025-04-27 20:31:50 +0000",
       "minecraft:piglin": "2025-04-20 18:04:55 +0000",
@@ -11881,6 +11882,12 @@
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-05-13 01:53:35 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2025-05-13 02:41:06 +0000"
     },
     "done": true
   },
