@@ -11872,9 +11872,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-13 01:53:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-13 01:53:35 +0000"
+    },
+    "done": true
+  },
   "brewery:main/get_whiskey_maggoallan": {
     "criteria": {
       "whiskey_maggoallan": "2025-05-13 01:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-13 01:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-13 01:53:35 +0000"
     },
     "done": true
   },
@@ -11889,6 +11913,12 @@
       "pretzel": "2025-05-13 01:32:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-13 01:53:35 +0000"
+    },
+    "done": true
   },
   "brewery:main/copper_brewmaster": {
     "criteria": {
