@@ -11209,6 +11209,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
   "brewery:main/get_whiskey_maggoallan": {
     "criteria": {
       "whiskey_maggoallan": "2025-05-13 01:41:12 +0000"
@@ -11221,9 +11233,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/barrel_main": {
     "criteria": {
       "has_barrel": "2025-05-13 01:04:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-05-13 02:22:35 +0000"
     },
     "done": true
   },

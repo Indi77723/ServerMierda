@@ -11926,5 +11926,11 @@
     },
     "done": true
   },
+  "scguns:main/treated_brass/spitfire": {
+    "criteria": {
+      "spitfire": "2025-05-13 02:27:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

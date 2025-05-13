@@ -2604,3 +2604,13 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 02:16:50.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:'
 [13May2025 02:16:50.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...Pokenaito Edmantium<--[HERE]
 [13May2025 02:17:19.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Edmantium] to Pokenaito
+[13May2025 02:29:31.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-937, y=-53, z=3507} BlockPos{x=-937, y=-54, z=3510}
+[13May2025 02:29:31.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-936, y=-54, z=3507} BlockPos{x=-937, y=-54, z=3507}
+[13May2025 02:30:33.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128118, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[13May2025 02:30:45.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-956, y=-45, z=3508} BlockPos{x=-955, y=-45, z=3509}
+[13May2025 02:30:45.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-956, y=-45, z=3508} BlockPos{x=-955, y=-45, z=3509}
+[13May2025 02:30:46.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-955, y=-45, z=3509} BlockPos{x=-954, y=-46, z=3509}
+[13May2025 02:30:51.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-943, y=-47, z=3507} BlockPos{x=-944, y=-46, z=3507}
+[13May2025 02:31:07.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-935, y=-50, z=3512} BlockPos{x=-935, y=-49, z=3511}
+[13May2025 02:31:10.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-938, y=-49, z=3513} BlockPos{x=-938, y=-50, z=3513}
+[13May2025 02:31:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [It Spreads]
