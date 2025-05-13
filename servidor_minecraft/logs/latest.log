@@ -2769,3 +2769,51 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 04:02:28.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [13May2025 04:03:32.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [The Key to Unbreakable Gear]
 [13May2025 04:03:42.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has reached the goal [The Next Generation]
+[13May2025 04:09:31.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[13May2025 04:09:31.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[13May2025 04:09:31.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[13May2025 04:09:48.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:33121] logged in with entity id 181685 at (-106.1566346939096, 115.3057641797169, -927.9870693491789)
+[13May2025 04:09:48.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[13May2025 04:09:58.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasdtasd
+[13May2025 04:10:05.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culos
+[13May2025 04:10:28.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 was kicked for floating too long!
+[13May2025 04:10:28.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Flying is not enabled on this server
+[13May2025 04:10:28.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[13May2025 04:10:28.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[13May2025 04:10:28.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[13May2025 04:10:28.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 04:10:35.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.151.120.119:48099] logged in with entity id 182672 at (92.03751098034078, 456.1169421725689, -1085.378021671445)
+[13May2025 04:10:35.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[13May2025 04:10:38.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:34653] logged in with entity id 182871 at (115.86997283528511, 643.6906022794388, -1061.5438146103609)
+[13May2025 04:10:38.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[13May2025 04:10:41.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 was kicked for floating too long!
+[13May2025 04:10:42.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Flying is not enabled on this server
+[13May2025 04:10:42.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[13May2025 04:10:47.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[13May2025 04:10:47.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[13May2025 04:10:47.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 04:10:49.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.151.120.119:45167] logged in with entity id 183112 at (92.03751098034078, 296.4404060400264, -1085.378021671445)
+[13May2025 04:10:49.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[13May2025 04:10:56.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 was kicked for floating too long!
+[13May2025 04:10:56.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Flying is not enabled on this server
+[13May2025 04:10:56.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[13May2025 04:10:57.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:48439] logged in with entity id 183199 at (115.8899149529402, 486.8945713601563, -1062.99877423825)
+[13May2025 04:10:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[13May2025 04:11:03.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.151.120.119:34427] logged in with entity id 183274 at (92.03751098034078, 104.54370630690778, -1085.378021671445)
+[13May2025 04:11:03.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[13May2025 04:11:06.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> -100,54,-971
+[13May2025 04:11:06.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[13May2025 04:11:06.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[13May2025 04:11:06.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 04:11:16.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:58657] logged in with entity id 183718 at (115.94215447652681, 330.3593335797487, -1064.7918191239814)
+[13May2025 04:11:16.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[13May2025 04:11:27.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[13May2025 04:11:27.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[13May2025 04:11:27.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 04:11:40.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:60611] logged in with entity id 183854 at (115.94215447652681, 135.16616404229836, -1064.7918191239814)
+[13May2025 04:11:40.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[13May2025 04:12:27.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> -82,59,-1003
+[13May2025 04:13:19.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdsda
+[13May2025 04:13:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> 54,59,-1042
+[13May2025 04:14:48.039] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c08ef2f5: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13May2025 04:14:48.129] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c08ef2f5: RandomSpreadSearchWorker succeeded with 747 radius, 7 samples
