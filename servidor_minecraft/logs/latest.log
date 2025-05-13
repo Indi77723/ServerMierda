@@ -2817,3 +2817,32 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 04:13:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> 54,59,-1042
 [13May2025 04:14:48.039] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c08ef2f5: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [13May2025 04:14:48.129] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c08ef2f5: RandomSpreadSearchWorker succeeded with 747 radius, 7 samples
+[13May2025 04:15:44.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina was kicked for floating too long!
+[13May2025 04:15:44.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Flying is not enabled on this server
+[13May2025 04:15:44.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[13May2025 04:16:20.895] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e4036db[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:45925) lost connection: Disconnected
+[13May2025 04:17:06.290] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bb27a0a[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:46649) lost connection: Disconnected
+[13May2025 04:18:40.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:42623] logged in with entity id 185344 at (-48.874842903423584, 563.1747791763255, -1019.0017025678657)
+[13May2025 04:18:40.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[13May2025 04:18:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> 604,58,-1254
+[13May2025 04:18:48.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina was kicked for floating too long!
+[13May2025 04:18:48.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Flying is not enabled on this server
+[13May2025 04:18:48.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[13May2025 04:18:56.338] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b59c7ae[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:32927) lost connection: Disconnected
+[13May2025 04:19:02.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:34897] logged in with entity id 185399 at (-48.874842903423584, 400.3413705972495, -1019.0017025678657)
+[13May2025 04:19:02.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[13May2025 04:19:09.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina was kicked for floating too long!
+[13May2025 04:19:09.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Flying is not enabled on this server
+[13May2025 04:19:09.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[13May2025 04:19:17.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:44199] logged in with entity id 185434 at (-48.874842903423584, 208.444670864131, -1019.0017025678657)
+[13May2025 04:19:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[13May2025 04:19:24.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina was kicked for floating too long!
+[13May2025 04:19:24.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Flying is not enabled on this server
+[13May2025 04:19:24.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[13May2025 04:19:53.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hoh
+[13May2025 04:20:00.539] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e2b2222[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:46657) lost connection: Disconnected
+[13May2025 04:21:06.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:52181] logged in with entity id 185902 at (-49.39683148310814, 62.818820490597645, -1019.8303262926162)
+[13May2025 04:21:06.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[13May2025 04:24:04.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The City at the End of the Game]
+[13May2025 04:24:29.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [The City at the End of the Game]
+[13May2025 04:24:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Enderman
