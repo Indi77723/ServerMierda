@@ -10506,3 +10506,17 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 02:11:38.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:51905] logged in with entity id 117463 at (-684.0382659426078, 68.62745239677804, 330.78218336655806)
 [13May2025 02:11:38.771] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@708a4277 into net.minecraft.network.Connection@78459f65
 [13May2025 02:11:38.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[13May2025 02:12:17.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/117648, l='ServerLevel[world]', x=-740.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[13May2025 02:13:33.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/118796, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[13May2025 02:13:51.620] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 16
+[13May2025 02:13:51.620] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.TransientCraftingContainer@106c68ac=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@106c68ac, c=net.minecraft.world.inventory.InventoryMenu@4bf207c9, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4bf207c9, b=36, e=44}, net.minecraft.world.inventory.ResultContainer@27c697a5=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@27c697a5, c=net.minecraft.world.inventory.InventoryMenu@4bf207c9, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4bf207c9, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4bf207c9, b=45, e=45}}
+[13May2025 02:13:51.620] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4bf207c9, b=9, e=35}
+[13May2025 02:15:59.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 02:15:59.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 02:16:30.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'rpgsmw:'
+[13May2025 02:16:30.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...Pokenaito rpgsmw:Edmantium<--[HERE]
+[13May2025 02:16:50.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:'
+[13May2025 02:16:50.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...Pokenaito Edmantium<--[HERE]
+[13May2025 02:17:19.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Edmantium] to Pokenaito
+[13May2025 02:20:59.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 02:20:59.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
