@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-13 03:32:37 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-02 05:44:57 +0000",
       "minecraft:mushroom_fields": "2025-05-04 04:34:17 +0000",
       "minecraft:taiga": "2025-04-23 05:11:23 +0000",
@@ -9528,6 +9529,12 @@
   "brewery:main/get_whiskey_maggoallan": {
     "criteria": {
       "whiskey_maggoallan": "2025-05-13 01:46:14 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2025-05-13 03:36:22 +0000"
     },
     "done": true
   },
