@@ -2878,3 +2878,11 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 04:54:28.141] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c08ef2f5: RandomSpreadSearchWorker succeeded with 251 radius, 4 samples
 [13May2025 04:54:36.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:46357] logged in with entity id 204387 at (1056.8118079519882, 136.86077866955804, -1608.0535155343862)
 [13May2025 04:54:36.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[13May2025 05:01:52.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Sky's the Limit]
+[13May2025 05:02:38.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5988ms or 119 ticks behind
+[13May2025 05:02:42.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -2.7869924883704016,-1.5,9.59040441510541
+[13May2025 05:02:42.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdsa
+[13May2025 05:04:32.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[13May2025 05:04:32.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[13May2025 05:04:47.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:48245] logged in with entity id 212757 at (-663.5449489444864, 63.0625, 402.7601762554109)
+[13May2025 05:04:47.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
