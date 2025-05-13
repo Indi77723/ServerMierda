@@ -2863,3 +2863,18 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 04:40:53.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
 [13May2025 04:42:39.005] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c08ef2f5: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [13May2025 04:42:39.057] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c08ef2f5: RandomSpreadSearchWorker succeeded with 727 radius, 1 samples
+[13May2025 04:45:55.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Ancient material]
+[13May2025 04:46:48.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[13May2025 04:46:48.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[13May2025 04:46:48.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[13May2025 04:47:04.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:34251] logged in with entity id 198720 at (1084.5006193261124, 98.04889573620355, -1578.81897704646)
+[13May2025 04:47:04.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[13May2025 04:47:21.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasd
+[13May2025 04:52:12.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdsad
+[13May2025 04:54:26.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[13May2025 04:54:26.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[13May2025 04:54:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[13May2025 04:54:28.092] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c08ef2f5: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13May2025 04:54:28.141] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c08ef2f5: RandomSpreadSearchWorker succeeded with 251 radius, 4 samples
+[13May2025 04:54:36.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:46357] logged in with entity id 204387 at (1056.8118079519882, 136.86077866955804, -1608.0535155343862)
+[13May2025 04:54:36.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
