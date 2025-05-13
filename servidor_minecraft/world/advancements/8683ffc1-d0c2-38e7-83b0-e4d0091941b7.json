@@ -11891,6 +11891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-13 03:06:01 +0000"
+    },
+    "done": true
+  },
   "brewery:main/get_whiskey_maggoallan": {
     "criteria": {
       "whiskey_maggoallan": "2025-05-13 01:39:47 +0000"
@@ -11900,6 +11906,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-13 01:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-13 03:06:01 +0000"
     },
     "done": true
   },
@@ -11933,9 +11945,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-13 03:06:01 +0000"
+    },
+    "done": true
+  },
   "scguns:main/treated_brass/spitfire": {
     "criteria": {
       "spitfire": "2025-05-13 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-13 03:06:01 +0000"
     },
     "done": true
   },

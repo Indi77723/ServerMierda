@@ -2658,3 +2658,18 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [13May2025 02:52:45.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> SDSADSADSAADS
 [13May2025 02:52:47.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
 [13May2025 02:52:47.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[13May2025 02:52:59.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:57445] logged in with entity id 150384 at (-765.1734047917661, 64.0, 338.0630193561648)
+[13May2025 02:52:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[13May2025 02:53:26.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> maldito tiktok del diablo
+[13May2025 02:57:37.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has reached the goal [Miphril]
+[13May2025 03:06:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aasdadssf
+[13May2025 03:06:16.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[13May2025 03:06:16.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[13May2025 03:06:43.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:51573] logged in with entity id 156355 at (-765.8286254043129, 63.0, 337.605094552138)
+[13May2025 03:06:43.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[13May2025 03:06:58.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ggg}
+[13May2025 03:07:40.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdas
+[13May2025 03:08:19.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdsaddsa
+[13May2025 03:08:55.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/156751, l='ServerLevel[world]', x=-738.50, y=61.56, z=297.50] died, message: 'Villager was killed'
+[13May2025 03:12:05.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/157706, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[13May2025 03:12:09.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/157777, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
