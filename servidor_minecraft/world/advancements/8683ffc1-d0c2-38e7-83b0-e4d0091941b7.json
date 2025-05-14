@@ -452,6 +452,7 @@
       "minecraft:spider": "2025-04-11 22:32:49 +0000",
       "minecraft:piglin_brute": "2025-05-14 03:36:09 +0000",
       "minecraft:creeper": "2025-04-11 03:27:05 +0000",
+      "minecraft:wither": "2025-05-14 04:13:18 +0000",
       "minecraft:evoker": "2025-05-13 03:36:28 +0000",
       "minecraft:phantom": "2025-04-23 05:52:38 +0000",
       "minecraft:zombified_piglin": "2025-05-14 03:53:14 +0000",
@@ -12165,6 +12166,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-14 04:13:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
@@ -12180,6 +12187,12 @@
   "gobber2:gobber2_rod_end": {
     "criteria": {
       "gobber2_rod_end": "2025-05-14 03:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-14 04:13:20 +0000"
     },
     "done": true
   },

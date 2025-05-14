@@ -11834,21 +11834,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
-      "has_fried_egg": "2025-05-14 03:49:36 +0000"
+      "has_auto_smelting_upgrade": "2025-05-14 02:30:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
-      "has_coal_block": "2025-05-14 03:34:25 +0000"
+      "has_auto_smelting_upgrade": "2025-05-14 02:30:08 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-05-14 02:32:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-05-14 02:32:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2025-05-14 02:33:41 +0000"
     },
     "done": true
   },
@@ -11864,33 +11876,27 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
-    "criteria": {
-      "has_advanced_pickup_upgrade": "2025-05-14 02:33:41 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2025-05-14 02:30:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2025-05-14 03:09:46 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2025-05-14 02:30:08 +0000"
+      "has_coal_block": "2025-05-14 03:34:25 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+  "farmersdelight:recipes/food/egg_sandwich": {
     "criteria": {
-      "has_pickup_upgrade": "2025-05-14 02:32:14 +0000"
+      "has_fried_egg": "2025-05-14 03:49:36 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-05-14 03:59:56 +0000"
     },
     "done": true
   },
