@@ -2583,3 +2583,17 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 04:17:43.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -10.235829842542785,2.128705892963481,-0.7575932731375019
 [14May2025 04:17:50.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asda
 [14May2025 04:18:11.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nojoda mardito LLAAAG
+[14May2025 04:25:50.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> uy qui lag wn
+[14May2025 04:25:55.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=72, z=223} BlockPos{x=-608, y=72, z=223}
+[14May2025 04:25:56.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=72, z=223} BlockPos{x=-608, y=72, z=223}
+[14May2025 04:25:56.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=72, z=223} BlockPos{x=-608, y=72, z=223}
+[14May2025 04:25:56.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=72, z=223} BlockPos{x=-608, y=72, z=223}
+[14May2025 04:27:05.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 4.879087791634447,0.3723582748555003,8.823317671055861
+[14May2025 04:27:29.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-667, y=64, z=341} BlockPos{x=-667, y=64, z=339}
+[14May2025 04:30:05.627] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14May2025 04:30:05.627] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14May2025 04:30:56.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[14May2025 04:30:56.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[14May2025 04:35:54.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:47419] logged in with entity id 82500 at (-612.1586810933596, 63.86044179515763, 377.80000001192093)
+[14May2025 04:35:54.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[14May2025 04:36:42.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/82772, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'

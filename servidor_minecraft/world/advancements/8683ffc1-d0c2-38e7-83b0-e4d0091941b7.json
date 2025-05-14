@@ -12142,6 +12142,12 @@
     },
     "done": true
   },
+  "scguns:main/deep_dark_blueprint": {
+    "criteria": {
+      "deep_dark_blueprint": "2025-05-14 04:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
