@@ -7747,7 +7747,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-05-04 05:49:12 +0000",
-      "in_better_spider_dungeon": "2025-05-02 05:54:56 +0000"
+      "in_better_spider_dungeon": "2025-05-02 05:54:56 +0000",
+      "in_better_monster_room": "2025-05-14 03:09:04 +0000"
     },
     "done": false
   },
@@ -9584,6 +9585,12 @@
   "gobber2:gobber2_bow_end": {
     "criteria": {
       "gobber2_bow_end": "2025-05-13 05:50:48 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-14 03:09:04 +0000"
     },
     "done": true
   },

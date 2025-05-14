@@ -2438,3 +2438,68 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 02:52:19.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ocupao
 [14May2025 02:53:39.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> de un tiro mata un sucker
 [14May2025 02:56:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> un goblin en la mina de miguel
+[14May2025 02:57:12.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20377, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[14May2025 03:01:11.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23046, l='ServerLevel[world]', x=-231.76, y=-256.00, z=109.69] died, message: 'Villager was killed'
+[14May2025 03:03:02.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[14May2025 03:03:02.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[14May2025 03:03:15.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:38767] logged in with entity id 23968 at (-660.670733985185, 63.0, 411.31743607077664)
+[14May2025 03:03:15.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[14May2025 03:03:31.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-277, y=61, z=198} BlockPos{x=-276, y=61, z=197}
+[14May2025 03:03:31.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-277, y=61, z=198} BlockPos{x=-276, y=61, z=197}
+[14May2025 03:03:31.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-277, y=60, z=198} BlockPos{x=-276, y=61, z=197}
+[14May2025 03:03:31.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-277, y=60, z=199} BlockPos{x=-276, y=61, z=197}
+[14May2025 03:03:31.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-277, y=60, z=199} BlockPos{x=-276, y=61, z=197}
+[14May2025 03:04:07.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24651, l='ServerLevel[world]', x=-231.76, y=-256.00, z=109.69] died, message: 'Villager was killed'
+[14May2025 03:06:01.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Epa Migu
+[14May2025 03:06:23.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> dime
+[14May2025 03:06:50.031] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['I'll find you'/26316, l='ServerLevel[world]', x=-663.50, y=32.50, z=408.50] died, message: 'I'll find you suffocated in a wall'
+[14May2025 03:06:50.032] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['I'll find you'/26316, l='ServerLevel[world]', x=-663.50, y=32.50, z=408.50] died: I'll find you suffocated in a wall
+[14May2025 03:07:01.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Chance
+[14May2025 03:07:12.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -0.4745274410456659,-9.442313092921616,4.028678615058595
+[14May2025 03:08:54.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9261ms or 185 ticks behind
+[14May2025 03:08:54.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -8.315605275015116,1.913810889987701,-6.323026598472836
+[14May2025 03:09:04.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Quite the Renovation]
+[14May2025 03:10:03.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -4.667649189982626,-2.948219136213197,-8.622416063415642
+[14May2025 03:10:09.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
+[14May2025 03:10:51.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> aja ven para la casa
+[14May2025 03:11:11.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Coño andais Afuera
+[14May2025 03:11:15.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Sebaaas
+[14May2025 03:11:17.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ven
+[14May2025 03:11:36.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ahi estais
+[14May2025 03:11:39.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ven
+[14May2025 03:12:05.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XDDDDDDDDDDDDDDDDDDDD
+[14May2025 03:12:06.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Bienvenido
+[14May2025 03:12:10.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> te pasaste XD
+[14May2025 03:12:23.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Le quitas lo divertido
+[14May2025 03:12:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Admitir que esta Bien Hecho
+[14May2025 03:12:45.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> hiciste ver a hitler como buena persona
+[14May2025 03:12:57.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> No por nada
+[14May2025 03:13:03.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Mi segundo Nombre es Adolfo
+[14May2025 03:13:08.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XDDDDDD
+[14May2025 03:15:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mi gente, ya tengo la armadura de nephir
+[14May2025 03:15:12.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Justicia
+[14May2025 03:15:12.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ahora voy un moco
+[14May2025 03:15:20.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> seba
+[14May2025 03:15:29.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> hey andan en discord?
+[14May2025 03:15:33.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yo no
+[14May2025 03:15:37.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> que armadura pa ma fea dio mio
+[14May2025 03:15:47.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> y ahorita me tengo que salir tengo pollo que esmechar xD
+[14May2025 03:15:47.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> a verla
+[14May2025 03:15:51.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mmgb
+[14May2025 03:15:58.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Seba
+[14May2025 03:16:01.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ante que te salgas
+[14May2025 03:16:06.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Acompañame
+[14May2025 03:16:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Si ta feita
+[14May2025 03:16:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XD
+[14May2025 03:16:19.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ven
+[14May2025 03:16:22.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> y es la unica color verde moco hechale
+[14May2025 03:16:32.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Es como lucario de las armaduras
+[14May2025 03:16:41.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> alareverga
+[14May2025 03:16:46.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> DAMN
+[14May2025 03:16:50.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Mira a los lados
+[14May2025 03:16:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Me faltan
+[14May2025 03:16:57.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> pero PRONTO
+[14May2025 03:17:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> Movelos con la varita
+[14May2025 03:17:09.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Los explotamo
+[14May2025 03:17:10.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> HEY NO MOLESTES a mis prisioneros
+[14May2025 03:17:17.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> la que transporta mobs

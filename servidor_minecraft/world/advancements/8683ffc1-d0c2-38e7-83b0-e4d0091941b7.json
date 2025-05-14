@@ -12049,15 +12049,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-14 01:56:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
     "criteria": {
       "has_item": "2025-05-14 01:57:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_sand": "2025-05-14 01:56:25 +0000"
+      "has_deepslate_tiles": "2025-05-14 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-14 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-14 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-14 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-14 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-14 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-14 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-14 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-14 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-05-14 02:59:36 +0000"
     },
     "done": true
   },
