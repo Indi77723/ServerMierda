@@ -2601,3 +2601,8 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 04:45:13.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 1021.5321572606241,41.46415937495544,1222.7013698371268
 [14May2025 04:46:29.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
 [14May2025 04:46:29.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[14May2025 04:53:51.431] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@687762a4[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:40195) lost connection: Disconnected
+[14May2025 04:53:57.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:52233] logged in with entity id 91049 at (-2.10945158421784, 80.0, -0.6428834437034799)
+[14May2025 04:53:57.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[14May2025 04:58:06.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya me esta dando duro el lag
+[14May2025 04:58:38.516] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/94403, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
