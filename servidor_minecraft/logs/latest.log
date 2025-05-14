@@ -2659,3 +2659,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 05:48:26.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:45035] logged in with entity id 118568 at (-661.4875000119209, 63.04525, 409.82749779104927)
 [14May2025 05:48:26.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [14May2025 05:48:41.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nojoa
+[14May2025 05:56:21.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/123164, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[14May2025 05:58:18.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/125755, l='ServerLevel[world]', x=-574.45, y=-256.00, z=400.78] died, message: 'Villager was killed'
+[14May2025 05:59:29.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128930, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[14May2025 06:02:15.232] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/127674, l='ServerLevel[world]', x=-1239.44, y=64.25, z=221.95] died, message: 'Cartographer was slain by The Moonflower'

@@ -11689,3 +11689,22 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 05:48:26.553] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@3bbc0195 into net.minecraft.network.Connection@4b0eabb8
 [14May2025 05:48:26.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [14May2025 05:48:41.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nojoa
+[14May2025 05:52:04.530] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 49
+[14May2025 05:52:04.531] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2c5940d9, b=81, e=89}, net.minecraft.world.CompoundContainer@1589acd3=InventoryMapping{i=net.minecraft.world.CompoundContainer@1589acd3, c=net.minecraft.world.inventory.ChestMenu@2c5940d9, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2c5940d9, b=54, e=80}}
+[14May2025 05:52:04.531] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@1589acd3, c=net.minecraft.world.inventory.ChestMenu@2c5940d9, b=0, e=53}
+[14May2025 05:52:43.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:52:43.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:54:36.988] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-680, y=67, z=356}) doesn't have enough leaves around top most log
+[14May2025 05:56:21.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/123164, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[14May2025 05:57:43.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:57:43.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:57:47.599] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 95
+[14May2025 05:57:47.599] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29c6db1f, b=108, e=116}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29c6db1f, b=0, e=80}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29c6db1f, b=81, e=107}}
+[14May2025 05:57:47.599] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29c6db1f, b=81, e=107}
+[14May2025 05:58:18.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/125755, l='ServerLevel[world]', x=-574.45, y=-256.00, z=400.78] died, message: 'Villager was killed'
+[14May2025 05:59:29.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128930, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[14May2025 06:02:15.232] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/127674, l='ServerLevel[world]', x=-1239.44, y=64.25, z=221.95] died, message: 'Cartographer was slain by The Moonflower'
+[14May2025 06:02:43.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 06:02:43.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 06:07:43.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 06:07:43.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
