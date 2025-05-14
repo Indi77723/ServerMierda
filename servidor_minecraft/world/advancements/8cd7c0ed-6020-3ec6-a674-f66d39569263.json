@@ -9551,21 +9551,15 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-13 04:29:04 +0000"
+    },
+    "done": true
+  },
   "scguns:main/end_blueprint": {
     "criteria": {
       "end_blueprint": "2025-05-13 04:31:10 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/end/raygun": {
-    "criteria": {
-      "raygun": "2025-05-13 05:18:32 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_bow_end": {
-    "criteria": {
-      "gobber2_bow_end": "2025-05-13 05:50:48 +0000"
     },
     "done": true
   },
@@ -9575,15 +9569,21 @@
     },
     "done": true
   },
+  "scguns:main/end/raygun": {
+    "criteria": {
+      "raygun": "2025-05-13 05:18:32 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_rod_end": {
     "criteria": {
       "gobber2_rod_end": "2025-05-13 05:50:18 +0000"
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
+  "gobber2:gobber2_bow_end": {
     "criteria": {
-      "in_city": "2025-05-13 04:29:04 +0000"
+      "gobber2_bow_end": "2025-05-13 05:50:48 +0000"
     },
     "done": true
   },

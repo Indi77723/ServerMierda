@@ -2430,3 +2430,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 02:26:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Pero QUe maldita Mochila
 [14May2025 02:42:05.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12477, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.59] died, message: 'Villager was killed'
 [14May2025 02:44:02.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13089, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[14May2025 02:50:10.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:36553] logged in with entity id 16191 at (-757.2098707947961, 64.0, 301.3179854364887)
+[14May2025 02:50:10.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[14May2025 02:51:56.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Argeis
+[14May2025 02:52:00.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Que paso?
+[14May2025 02:52:10.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Veni para probar el arco nuevo
+[14May2025 02:52:19.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ocupao
+[14May2025 02:53:39.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> de un tiro mata un sucker
+[14May2025 02:56:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> un goblin en la mina de miguel
