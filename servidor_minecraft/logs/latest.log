@@ -2503,3 +2503,49 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 03:17:09.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Los explotamo
 [14May2025 03:17:10.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> HEY NO MOLESTES a mis prisioneros
 [14May2025 03:17:17.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> la que transporta mobs
+[14May2025 03:17:30.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Con eso es que los tengo
+[14May2025 03:17:33.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ahora si tiene sentido el ascensor
+[14May2025 03:18:04.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Seba
+[14May2025 03:18:10.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Pa ver cuanto te pego con el arco
+[14May2025 03:18:28.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> 2 y medio
+[14May2025 03:18:34.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Te pegue
+[14May2025 03:18:39.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> si
+[14May2025 03:18:43.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Y el coñazo se reflejo 2 segundos despues
+[14May2025 03:18:44.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> 2 y medio corazones
+[14May2025 03:18:45.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XD
+[14May2025 03:19:01.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asu
+[14May2025 03:19:06.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XD
+[14May2025 03:20:16.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34491, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
+[14May2025 03:21:11.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 0.0,-11.308556798482428,0.0
+[14May2025 03:21:41.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The Key to Unbreakable Gear]
+[14May2025 03:23:22.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> verga con el lag
+[14May2025 03:23:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Y yo farmeando enderman
+[14May2025 03:24:03.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Para experiencia
+[14May2025 03:24:29.416] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35905, l='ServerLevel[world]', x=-664.29, y=-256.00, z=404.19] died, message: 'Villager was killed'
+[14May2025 03:27:44.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[14May2025 03:27:44.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[14May2025 03:28:33.427] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@722be8a9[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:40231) lost connection: Disconnected
+[14May2025 03:29:10.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:33449] logged in with entity id 37346 at (-21.30000001192093, 64.0, -8.36297653246255)
+[14May2025 03:29:10.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[14May2025 03:32:29.291] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d0c5e8cf: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14May2025 03:32:29.340] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d0c5e8cf: RandomSpreadSearchWorker succeeded with 450 radius, 1 samples
+[14May2025 03:37:20.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [War Pigs]
+[14May2025 03:39:06.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nojoda esto se volvio una granja de huevos
+[14May2025 03:39:18.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> si estan chiquitos no dropean nada gafo
+[14May2025 03:39:28.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Por eso deben morir
+[14May2025 03:39:32.281] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d0c5e8cf: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14May2025 03:39:32.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> tienen que crecer
+[14May2025 03:39:34.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Supervivencia del mas apto
+[14May2025 03:39:42.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[14May2025 03:39:45.155] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d0c5e8cf: RandomSpreadSearchWorker failed with 10069 radius, 847 samples
+[14May2025 03:40:11.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Argenis tiene un hipi en su casa
+[14May2025 03:41:22.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Seba
+[14May2025 03:41:27.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Como pongo musica
+[14May2025 03:41:47.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> Caja de musica
+[14May2025 03:41:54.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Mira esta obra de arte
+[14May2025 03:42:04.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> bruh
+[14May2025 03:42:08.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> se llama tocadiscos
+[14May2025 03:42:10.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XD
+[14May2025 03:42:15.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Y depues
+[14May2025 03:47:53.111] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d0c5e8cf: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14May2025 03:47:53.140] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d0c5e8cf: RandomSpreadSearchWorker succeeded with 448 radius, 1 samples

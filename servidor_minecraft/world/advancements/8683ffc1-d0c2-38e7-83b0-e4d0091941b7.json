@@ -450,6 +450,7 @@
       "minecraft:vindicator": "2025-04-18 16:35:03 +0000",
       "minecraft:magma_cube": "2025-04-27 18:27:56 +0000",
       "minecraft:spider": "2025-04-11 22:32:49 +0000",
+      "minecraft:piglin_brute": "2025-05-14 03:36:09 +0000",
       "minecraft:creeper": "2025-04-11 03:27:05 +0000",
       "minecraft:evoker": "2025-05-13 03:36:28 +0000",
       "minecraft:phantom": "2025-04-23 05:52:38 +0000",
@@ -12118,6 +12119,78 @@
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-05-14 02:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2025-05-14 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-14 03:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2025-05-14 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod_end": {
+    "criteria": {
+      "gobber2_rod_end": "2025-05-14 03:21:41 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/patterned_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-05-14 03:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
     },
     "done": true
   },

@@ -11834,6 +11834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-14 03:34:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-05-14 02:32:14 +0000"
