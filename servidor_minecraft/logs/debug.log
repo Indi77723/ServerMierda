@@ -11263,3 +11263,28 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 05:09:40.987] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 77
 [14May2025 05:09:40.988] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@579174dc, b=108, e=116}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@579174dc, b=0, e=80}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@579174dc, b=81, e=107}}
 [14May2025 05:09:40.988] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@579174dc, b=0, e=80}
+[14May2025 05:12:43.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:12:43.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:13:59.026] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-760, y=65, z=302}
+[14May2025 05:13:59.027] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=407}
+[14May2025 05:13:59.027] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=69, z=400}
+[14May2025 05:13:59.027] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=68, z=396}
+[14May2025 05:13:59.027] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=296}
+[14May2025 05:13:59.027] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-751, y=63, z=296}
+[14May2025 05:13:59.027] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=408}
+[14May2025 05:13:59.027] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=295}
+[14May2025 05:14:23.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/105060, l='ServerLevel[world]', x=1035.43, y=73.00, z=833.64] died, message: 'Villager suffocated in a wall'
+[14May2025 05:15:17.749] [Server thread/INFO] [betterendisland/]: Found all crystals, respawning dragon.
+[14May2025 05:15:47.933] [Server thread/DEBUG] [mixin/]: Mixing common.SittingPhaseMixin from scguns.mixins.json into net.minecraft.world.entity.boss.enderdragon.phases.AbstractDragonSittingPhase
+[14May2025 05:15:47.933] [Server thread/DEBUG] [mixin/]: scguns.mixins.json:common.SittingPhaseMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[14May2025 05:15:47.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [The End... Again...]
+[14May2025 05:15:47.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has reached the goal [The End... Again...]
+[14May2025 05:15:47.940] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[14May2025 05:15:47.958] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[14May2025 05:15:56.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has reached the goal [You Need a Mint]
+[14May2025 05:15:59.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [You Need a Mint]
+[14May2025 05:16:55.576] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/108477, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[14May2025 05:17:40.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/108573, l='ServerLevel[world]', x=-739.50, y=61.56, z=297.50] died, message: 'Villager was killed'
+[14May2025 05:17:43.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:17:43.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:20:31.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/109337, l='ServerLevel[world]', x=-574.04, y=-256.00, z=400.50] died, message: 'Villager was killed'

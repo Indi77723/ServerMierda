@@ -2615,3 +2615,14 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 05:09:02.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> q
 [14May2025 05:09:06.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ta gusi
 [14May2025 05:09:20.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> bala
+[14May2025 05:14:23.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/105060, l='ServerLevel[world]', x=1035.43, y=73.00, z=833.64] died, message: 'Villager suffocated in a wall'
+[14May2025 05:15:17.749] [Server thread/INFO] [betterendisland/]: Found all crystals, respawning dragon.
+[14May2025 05:15:47.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [The End... Again...]
+[14May2025 05:15:47.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has reached the goal [The End... Again...]
+[14May2025 05:15:47.940] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[14May2025 05:15:47.958] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[14May2025 05:15:56.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has reached the goal [You Need a Mint]
+[14May2025 05:15:59.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [You Need a Mint]
+[14May2025 05:16:55.576] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/108477, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[14May2025 05:17:40.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/108573, l='ServerLevel[world]', x=-739.50, y=61.56, z=297.50] died, message: 'Villager was killed'
+[14May2025 05:20:31.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/109337, l='ServerLevel[world]', x=-574.04, y=-256.00, z=400.50] died, message: 'Villager was killed'

@@ -12208,6 +12208,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-05-14 05:15:59 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_rod_end": {
     "criteria": {
       "gobber2_rod_end": "2025-05-14 03:21:41 +0000"
@@ -12226,9 +12232,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-14 05:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-05-14 05:15:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-05-14 05:10:52 +0000"
     },
     "done": true
   },
