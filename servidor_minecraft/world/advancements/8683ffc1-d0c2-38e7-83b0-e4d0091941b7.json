@@ -12124,15 +12124,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "brewery:recipes/patterned_wool": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
+      "has_blue_wool": "2025-05-14 03:21:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
+  "gobber2:gobber2_rod_end": {
     "criteria": {
-      "has_ender_eye": "2025-05-14 04:47:42 +0000"
+      "gobber2_rod_end": "2025-05-14 03:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
     },
     "done": true
   },
@@ -12148,21 +12154,9 @@
     },
     "done": true
   },
-  "scguns:main/deep_dark_blueprint": {
-    "criteria": {
-      "deep_dark_blueprint": "2025-05-14 04:27:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-05-14 03:37:20 +0000"
     },
     "done": true
   },
@@ -12178,27 +12172,9 @@
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-05-14 04:13:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-05-14 04:47:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-05-14 04:58:46 +0000"
     },
     "done": true
   },
@@ -12208,15 +12184,21 @@
     },
     "done": true
   },
-  "minecraft:end/dragon_breath": {
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
-      "dragon_breath": "2025-05-14 05:15:59 +0000"
+      "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
     },
     "done": true
   },
-  "gobber2:gobber2_rod_end": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "gobber2_rod_end": "2025-05-14 03:21:41 +0000"
+      "loot_bastion_other": "2025-05-14 03:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-14 04:13:00 +0000"
     },
     "done": true
   },
@@ -12226,9 +12208,33 @@
     },
     "done": true
   },
-  "brewery:recipes/patterned_wool": {
+  "scguns:main/deep_dark_blueprint": {
     "criteria": {
-      "has_blue_wool": "2025-05-14 03:21:31 +0000"
+      "deep_dark_blueprint": "2025-05-14 04:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-14 04:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-14 04:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-14 04:58:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-05-14 05:10:52 +0000"
     },
     "done": true
   },
@@ -12244,15 +12250,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-14 03:33:41 +0000"
+      "dragon_breath": "2025-05-14 05:15:59 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/sanctum/lesion": {
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
-      "has_item": "2025-05-14 05:10:52 +0000"
+      "has_snout_armor_trim_smithing_template": "2025-05-14 05:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-14 05:27:12 +0000"
     },
     "done": true
   },
