@@ -11834,6 +11834,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-05-14 03:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-14 03:34:25 +0000"

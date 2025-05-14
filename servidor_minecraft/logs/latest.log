@@ -2549,3 +2549,12 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 03:42:15.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Y depues
 [14May2025 03:47:53.111] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d0c5e8cf: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [14May2025 03:47:53.140] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d0c5e8cf: RandomSpreadSearchWorker succeeded with 448 radius, 1 samples
+[14May2025 03:47:59.438] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d0c5e8cf: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14May2025 03:47:59.495] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager d0c5e8cf: RandomSpreadSearchWorker succeeded with 448 radius, 1 samples
+[14May2025 03:50:49.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina was kicked for floating too long!
+[14May2025 03:50:49.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Flying is not enabled on this server
+[14May2025 03:50:49.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[14May2025 03:50:58.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:53313] logged in with entity id 49074 at (-652.0503726198056, 55.24917364907473, 391.38757991134906)
+[14May2025 03:50:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[14May2025 03:51:45.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4241ms or 84 ticks behind
+[14May2025 03:57:05.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has completed the challenge [Return to Sender]
