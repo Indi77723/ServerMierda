@@ -2413,3 +2413,14 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
 [14May2025 02:01:04.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3844, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[14May2025 02:18:30.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.119.54.188:52727] logged in with entity id 7048 at (-763.146329962902, 63.0, 345.5237242173296)
+[14May2025 02:18:30.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[14May2025 02:18:59.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[14May2025 02:18:59.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[14May2025 02:20:20.579] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5312509a[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.150.228.4:57227) lost connection: Disconnected
+[14May2025 02:20:33.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:56339] logged in with entity id 7650 at (-763.146329962902, 63.0, 345.5237242173296)
+[14May2025 02:20:33.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[14May2025 02:20:59.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> depilate
+[14May2025 02:21:06.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> y untate el splash de chocolate
+[14May2025 02:22:41.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8234, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[14May2025 02:25:42.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> wais, que dura me quedo la mochila
