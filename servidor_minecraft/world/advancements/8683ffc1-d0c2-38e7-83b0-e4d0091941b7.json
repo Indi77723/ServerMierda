@@ -12268,6 +12268,12 @@
     },
     "done": true
   },
+  "scguns:main/piglin_blueprint": {
+    "criteria": {
+      "piglin_blueprint": "2025-05-14 05:44:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-14 05:27:12 +0000"

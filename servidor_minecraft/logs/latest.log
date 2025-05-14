@@ -2645,3 +2645,17 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 05:38:56.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...mbie62002 scorched_guns:piglin_blueprint<--[HERE]
 [14May2025 05:39:18.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'scorchedguns:piglin_blueprint'
 [14May2025 05:39:18.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...mbie62002 scorchedguns:piglin_blueprint<--[HERE]
+[14May2025 05:42:40.575] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/117183, l='ServerLevel[world]', x=-764.39, y=-256.00, z=339.00] died, message: 'Villager was killed'
+[14May2025 05:43:25.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 8.686394091012971,-0.40182806643655056,5.699321334914714
+[14May2025 05:43:45.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/117486, l='ServerLevel[world]', x=-765.59, y=-256.00, z=338.94] died, message: 'Villager was killed'
+[14May2025 05:43:54.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'scguns:item/piglin_blueprint'
+[14May2025 05:43:54.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...mbie62002 scguns:item/piglin_blueprint<--[HERE]
+[14May2025 05:44:15.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Piglin Blueprint] to Zombie62002
+[14May2025 05:44:41.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/117687, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.59] died, message: 'Villager was killed'
+[14May2025 05:47:05.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 9.97771726664098,-0.35740073057502286,3.409556346101283
+[14May2025 05:47:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gu
+[14May2025 05:48:01.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[14May2025 05:48:01.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[14May2025 05:48:26.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:45035] logged in with entity id 118568 at (-661.4875000119209, 63.04525, 409.82749779104927)
+[14May2025 05:48:26.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[14May2025 05:48:41.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nojoa
