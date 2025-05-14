@@ -11477,3 +11477,19 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 05:23:31.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [14May2025 05:27:43.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14May2025 05:27:43.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:32:43.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:32:43.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:35:13.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> T
+[14May2025 05:36:38.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:piglin'
+[14May2025 05:36:38.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...mbie62002 piglin blueprint<--[HERE]
+[14May2025 05:36:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:piglin'
+[14May2025 05:36:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...mbie62002 piglin blueprint<--[HERE]
+[14May2025 05:36:58.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Local Brewery]
+[14May2025 05:37:43.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 05:37:43.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 05:38:03.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:piglin_blueprint'
+[14May2025 05:38:03.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...mbie62002 piglin_blueprint<--[HERE]
+[14May2025 05:38:56.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'scorched_guns:piglin_blueprint'
+[14May2025 05:38:56.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...mbie62002 scorched_guns:piglin_blueprint<--[HERE]
+[14May2025 05:39:18.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'scorchedguns:piglin_blueprint'
+[14May2025 05:39:18.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...mbie62002 scorchedguns:piglin_blueprint<--[HERE]
