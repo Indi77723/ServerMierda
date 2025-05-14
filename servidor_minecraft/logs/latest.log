@@ -2597,3 +2597,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [14May2025 04:35:54.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:47419] logged in with entity id 82500 at (-612.1586810933596, 63.86044179515763, 377.80000001192093)
 [14May2025 04:35:54.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
 [14May2025 04:36:42.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/82772, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[14May2025 04:43:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> dios porque laguea es juto cuando peleo vergacion
+[14May2025 04:45:13.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 1021.5321572606241,41.46415937495544,1222.7013698371268
+[14May2025 04:46:29.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[14May2025 04:46:29.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
