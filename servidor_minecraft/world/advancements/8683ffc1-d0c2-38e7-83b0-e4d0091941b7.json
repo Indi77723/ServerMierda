@@ -12196,6 +12196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-14 04:58:46 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/blackstone/twisting": {
     "criteria": {
       "has_item": "2025-05-14 03:33:41 +0000"
