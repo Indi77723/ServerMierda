@@ -12243,5 +12243,11 @@
     },
     "done": true
   },
+  "netherexp:nether/stayin_frosty": {
+    "criteria": {
+      "c1": "2025-05-15 04:42:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
