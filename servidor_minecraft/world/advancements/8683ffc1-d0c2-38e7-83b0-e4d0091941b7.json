@@ -12286,5 +12286,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-05-15 02:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-05-15 02:11:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall": {
+    "criteria": {
+      "has_cut_calcite_bricks": "2025-05-15 02:12:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs": {
+    "criteria": {
+      "has_cut_calcite_bricks": "2025-05-15 02:12:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab": {
+    "criteria": {
+      "has_cut_calcite_bricks": "2025-05-15 02:12:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
