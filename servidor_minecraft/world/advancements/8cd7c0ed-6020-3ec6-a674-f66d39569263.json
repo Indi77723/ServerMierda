@@ -9663,5 +9663,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-15 03:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-15 03:00:47 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/treated_brass/spitfire": {
+    "criteria": {
+      "spitfire": "2025-05-15 03:03:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
