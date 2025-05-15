@@ -12045,15 +12045,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-05-14 05:49:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/copper_table_cloth_clear": {
     "criteria": {
       "has_copper_table_cloth": "2025-05-14 06:09:14 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
-      "has_wooden_kitchen_drawers": "2025-05-14 05:49:36 +0000"
+      "cooked_bacon": "2025-05-14 06:43:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-05-14 06:43:32 +0000"
     },
     "done": true
   },
